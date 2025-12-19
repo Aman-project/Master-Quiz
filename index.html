@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Master | Premium Experience</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="assets/logo.png">
+    <meta name="theme-color" content="#8b5cf6">
+</head>
+
+<body>
+    <div class="app-container">
+
+        <!-- Dashboard Screen -->
+        <div id="dashboard-screen" class="screen active">
+            <div class="content-box">
+                <div class="logo-container" style="margin-bottom: 1.5rem;">
+                    <img src="assets/logo.png" alt="Quiz Master Logo" class="app-logo">
+                </div>
+                <h1>Quiz Master</h1>
+                <p>Select a challenge or create your own journey.</p>
+
+                <button id="create-quiz-btn" class="primary-btn">
+                    <i class="ri-add-circle-line"></i> Create New Quiz
+                </button>
+
+                <div style="margin-top: 3rem;">
+                    <h3><i class="ri-book-open-line"></i> Available Quizzes</h3>
+                    <div class="quiz-list" id="quiz-list">
+                        <!-- Quiz Cards injected here via JS -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Create Quiz Screen -->
+        <div id="create-quiz-screen" class="screen">
+            <div class="content-box wide-box">
+                <div class="screen-header">
+                    <h2><i class="ri-edit-2-line"></i> Create Custom Quiz</h2>
+                    <p>Import your JSON questions to build a new test.</p>
+                </div>
+
+                <div class="form-container">
+                    <div class="input-group">
+                        <label for="new-quiz-name"><i class="ri-text"></i> Quiz Title</label>
+                        <input type="text" id="new-quiz-name" placeholder="e.g. Advanced Physics Trivia">
+                    </div>
+
+                    <div class="input-group">
+                        <label for="quiz-json-input"><i class="ri-code-s-slash-line"></i> JSON Data</label>
+                        <textarea id="quiz-json-input" rows="12"
+                            placeholder="Paste your question array here..."></textarea>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="ri-information-line"></i> Format Reference</label>
+                        <div class="code-block">
+                            [
+                            {
+                            "id": 1,
+                            "question": "What is the speed of light?",
+                            "options": ["(A) 3x10^8 m/s", "(B) 300 km/h"],
+                            "answer": "(A) 3x10^8 m/s"
+                            }
+                            ]
+                        </div>
+                    </div>
+                </div>
+
+                <div class="btn-group">
+                    <button id="save-quiz-btn" class="primary-btn"><i class="ri-save-3-line"></i> Save Quiz</button>
+                    <button id="cancel-create-btn" class="secondary-btn"><i class="ri-close-circle-line"></i>
+                        Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Start Quiz Confirmation Screen -->
+        <div id="start-screen" class="screen">
+            <div class="content-box">
+                <div style="font-size: 4rem; margin-bottom: 1rem; color: var(--accent);">
+                    <i class="ri-rocket-2-fill"></i>
+                </div>
+                <h2 id="selected-quiz-title">Quiz Title</h2>
+                <p>Are you ready to test your knowledge?</p>
+
+                <div class="info-badges"
+                    style="display: flex; gap: 1rem; justify-content: center; margin-bottom: 2rem;">
+                    <span class="badge"
+                        style="background: rgba(255,255,255,0.1); padding: 8px 16px; border-radius: 8px;">
+                        <i class="ri-question-mark"></i> <span id="total-questions-count">0</span> Questions
+                    </span>
+                    <span class="badge"
+                        style="background: rgba(255,255,255,0.1); padding: 8px 16px; border-radius: 8px;">
+                        <i class="ri-time-line"></i> Untimed
+                    </span>
+                </div>
+
+                <div class="btn-group">
+                    <button id="start-btn" class="primary-btn"><i class="ri-play-fill"></i> Start Now</button>
+                    <button id="back-to-dashboard-btn" class="secondary-btn"><i class="ri-arrow-left-line"></i>
+                        Back</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Gameplay Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="content-box wide-box" style="text-align: left;">
+                <div class="quiz-header">
+                    <span id="question-number" style="min-width: 100px; font-weight: 600; color: var(--text-muted);">Q
+                        1/10</span>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <span id="score-display" style="min-width: 80px; text-align: right; font-weight: 600;">Score:
+                        0</span>
+                </div>
+
+                <div class="question-container">
+                    <h2 id="question-text" class="question-text">Question text loads here...</h2>
+                </div>
+
+                <div class="options-container" id="options-container">
+                    <!-- Dynamic Options -->
+                </div>
+
+                <div class="quiz-footer">
+                    <button id="quit-quiz-btn" class="secondary-btn" style="padding: 0.8rem 1.5rem; font-size: 0.9rem;">
+                        <i class="ri-logout-box-r-line"></i> Quit
+                    </button>
+                    <button id="next-btn" class="primary-btn" disabled>
+                        Next Question <i class="ri-arrow-right-line"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="screen">
+            <div class="content-box">
+                <div class="score-circle">
+                    <span id="final-score">0</span>
+                    <span class="total" style="font-size: 1.2rem; color: var(--text-muted);">/ <span
+                            id="total-questions-result">0</span></span>
+                </div>
+
+                <h2 style="margin-bottom: 0.5rem;">Quiz Completed!</h2>
+                <p id="result-message" style="color: var(--primary);">Great Performance!</p>
+
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <i class="ri-checkbox-circle-line icon-correct"></i>
+                        <span class="label">Correct</span>
+                        <span class="value" id="correct-count">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="ri-close-circle-line icon-wrong"></i>
+                        <span class="label">Wrong</span>
+                        <span class="value" id="wrong-count">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <i class="ri-crosshair-2-line icon-accuracy"></i>
+                        <span class="label">Accuracy</span>
+                        <span class="value" id="accuracy">0%</span>
+                    </div>
+                </div>
+
+                <div class="btn-group">
+                    <button id="restart-btn" class="primary-btn"><i class="ri-restart-line"></i> Play Again</button>
+                    <button id="home-btn" class="secondary-btn"><i class="ri-home-4-line"></i> Dashboard</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then((reg) => console.log('Service Worker registered!', reg))
+                    .catch((err) => console.log('Service Worker registration failed:', err));
+            });
+        }
+    </script>
+</body>
+
+</html>

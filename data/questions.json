@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT one of the 7 Cs of presentation?",
+    "options": [
+      "(A) Clarity",
+      "(B) Consideration",
+      "(C) Concreteness",
+      "(D) Collective"
+    ],
+    "answer": "(D) Collective"
+  },
+  {
+    "id": 2,
+    "question": "According to Richard Fees, what percentage of the communication process belongs to non-verbal communication?",
+    "options": [
+      "(A) Formal",
+      "(B) Non-verbal",
+      "(C) Informal",
+      "(D) Oral"
+    ],
+    "answer": "(B) Non-verbal"
+  },
+  {
+    "id": 3,
+    "question": "The term \"Personality\" is derived from which language?",
+    "options": [
+      "(A) Greek",
+      "(B) French",
+      "(C) Latin",
+      "(D) German"
+    ],
+    "answer": "(C) Latin"
+  },
+  {
+    "id": 4,
+    "question": "The word \"Personality\" is derived from which specific word?",
+    "options": [
+      "(A) Persona",
+      "(B) Person",
+      "(C) Performance",
+      "(D) None of these"
+    ],
+    "answer": "(A) Persona"
+  },
+  {
+    "id": 5,
+    "question": "The nature of personality organization is:",
+    "options": [
+      "(A) Socio-economic",
+      "(B) Physiological-Physical",
+      "(C) Sociological-Political",
+      "(D) Political-Spiritual"
+    ],
+    "answer": "(B) Physiological-Physical"
+  },
+  {
+    "id": 6,
+    "question": "Reading is a _____ process:",
+    "options": [
+      "(A) Encoding",
+      "(B) Codification",
+      "(C) Decoding",
+      "(D) None of the above"
+    ],
+    "answer": "(C) Decoding"
+  },
+  {
+    "id": 7,
+    "question": "We require several skills for acquiring _____ and _____.",
+    "options": [
+      "(A) Knowledge and Wisdom",
+      "(B) Knowledge and Information",
+      "(C) Information and Experience",
+      "(D) Both B and C"
+    ],
+    "answer": "(D) Both B and C"
+  },
+  {
+    "id": 8,
+    "question": "Personality can be defined as:",
+    "options": [
+      "(A) A set of physical traits",
+      "(B) A stable pattern of behavior, thought, and emotion",
+      "(C) Only observed behavior",
+      "(D) A temporary state of mind"
+    ],
+    "answer": "(B) A stable pattern of behavior, thought, and emotion"
+  },
+  {
+    "id": 9,
+    "question": "Proper grooming includes:",
+    "options": [
+      "(A) Having unkempt hair",
+      "(B) Neglecting dental care",
+      "(C) Keeping nails clean and trimmed",
+      "(D) Avoiding regular showers"
+    ],
+    "answer": "(C) Keeping nails clean and trimmed"
+  },
+  {
+    "id": 10,
+    "question": "Find the odd one out among the elements of communication:",
+    "options": [
+      "(A) Sender",
+      "(B) Receiver",
+      "(C) Medium",
+      "(D) Technology"
+    ],
+    "answer": "(D) Technology"
+  },
+  {
+    "id": 11,
+    "question": "The word \"Communication\" originates from the Latin word:",
+    "options": [
+      "(A) Communis",
+      "(B) Common",
+      "(C) Communicare",
+      "(D) Both A and C"
+    ],
+    "answer": "(D) Both A and C"
+  },
+  {
+    "id": 12,
+    "question": "What is the nature of communication?",
+    "options": [
+      "(A) It is a process",
+      "(B) It is a complex process",
+      "(C) It involves elemental communication",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 13,
+    "question": "Communication is the transfer of _____ from sender to receiver.",
+    "options": [
+      "(A) Data",
+      "(B) Goods",
+      "(C) Information",
+      "(D) Objects"
+    ],
+    "answer": "(C) Information"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following are objectives of communication?",
+    "options": [
+      "(A) To enhance work skills",
+      "(B) To enhance will to work",
+      "(C) To enhance productivity",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 15,
+    "question": "The interview method is:",
+    "options": [
+      "(A) Direct",
+      "(B) Indirect",
+      "(C) Both A and B",
+      "(D) None of these"
+    ],
+    "answer": "(C) Both A and B"
+  },
+  {
+    "id": 16,
+    "question": "The oldest form of communication is:",
+    "options": [
+      "(A) Written",
+      "(B) Speech",
+      "(C) Reading",
+      "(D) Symbolic"
+    ],
+    "answer": "(D) Symbolic"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is NOT a characteristic of an introverted personality?",
+    "options": [
+      "(A) Self-centered",
+      "(B) Stereotyping",
+      "(C) Sociality",
+      "(D) Aggressive"
+    ],
+    "answer": "(C) Sociality"
+  },
+  {
+    "id": 18,
+    "question": "A formal meeting where people evaluate others is called:",
+    "options": [
+      "(A) Interrogation",
+      "(B) Interview",
+      "(C) Group Discussion",
+      "(D) None of the above"
+    ],
+    "answer": "(B) Interview"
+  },
+  {
+    "id": 19,
+    "question": "What is most preferred for women in terms of dressing style for interviews?",
+    "options": [
+      "(A) Indian",
+      "(B) Western",
+      "(C) Indian and Western equally",
+      "(D) Combination"
+    ],
+    "answer": "(C) Indian and Western equally"
+  },
+  {
+    "id": 20,
+    "question": "Eye signaling is what type of communication?",
+    "options": [
+      "(A) Verbal",
+      "(B) Body",
+      "(C) Non-verbal",
+      "(D) Oral"
+    ],
+    "answer": "(C) Non-verbal"
+  },
+  {
+    "id": 21,
+    "question": "Interviews are conversations with a:",
+    "options": [
+      "(A) Purpose",
+      "(B) Informality",
+      "(C) Formality",
+      "(D) Group Discussion"
+    ],
+    "answer": "(A) Purpose"
+  },
+  {
+    "id": 22,
+    "question": "The main purpose of group discussion is to measure:",
+    "options": [
+      "(A) Knowledge",
+      "(B) Personality",
+      "(C) Group Communication Skill",
+      "(D) Leadership Skill"
+    ],
+    "answer": "(C) Group Communication Skill"
+  },
+  {
+    "id": 23,
+    "question": "A message sent from lower level to higher level is called:",
+    "options": [
+      "(A) Horizontal",
+      "(B) Upward Communication",
+      "(C) Downward",
+      "(D) Social"
+    ],
+    "answer": "(B) Upward Communication"
+  },
+  {
+    "id": 24,
+    "question": "Facial expressions are a part of:",
+    "options": [
+      "(A) Gestures",
+      "(B) Sign Language",
+      "(C) Body Language",
+      "(D) Verbal Communication"
+    ],
+    "answer": "(C) Body Language"
+  },
+  {
+    "id": 25,
+    "question": "Most important function of communication in an organization:",
+    "options": [
+      "(A) Motivation",
+      "(B) Control",
+      "(C) Information",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 26,
+    "question": "Which communication has a high level of stability?",
+    "options": [
+      "(A) Written Communication",
+      "(B) Body Gestures",
+      "(C) Oral",
+      "(D) None of these"
+    ],
+    "answer": "(A) Written Communication"
+  },
+  {
+    "id": 27,
+    "question": "What are the characteristics of effective communication?",
+    "options": [
+      "(A) Clarity of meaning",
+      "(B) Adequacy of message",
+      "(C) Interaction between sender and receiver",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 28,
+    "question": "\"Communicare\" is a _____ word.",
+    "options": [
+      "(A) French",
+      "(B) Latin",
+      "(C) German",
+      "(D) English"
+    ],
+    "answer": "(B) Latin"
+  },
+  {
+    "id": 29,
+    "question": "Biological factors are also called:",
+    "options": [
+      "(A) Heredity factors",
+      "(B) Environmental factors",
+      "(C) Both A and B",
+      "(D) None of these"
+    ],
+    "answer": "(C) Both A and B"
+  },
+  {
+    "id": 30,
+    "question": "Which of these is a main element of non-verbal communication?",
+    "options": [
+      "(A) The volume of the speaker",
+      "(B) Name of speaker",
+      "(C) Name of listener",
+      "(D) Age of speaker"
+    ],
+    "answer": "(A) The volume of the speaker"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following should be avoided in an interview?",
+    "options": [
+      "(A) Clarity",
+      "(B) Smile",
+      "(C) Confusion",
+      "(D) Confidence"
+    ],
+    "answer": "(C) Confusion"
+  },
+  {
+    "id": 32,
+    "question": "Discussion in a conversation should stop when:",
+    "options": [
+      "(A) It turns into an argument",
+      "(B) It is boring",
+      "(C) Person does not like the other",
+      "(D) A third person joins"
+    ],
+    "answer": "(A) It turns into an argument"
+  },
+  {
+    "id": 33,
+    "question": "Chronemics is also known as the language of:",
+    "options": [
+      "(A) Space",
+      "(B) Time",
+      "(C) Body",
+      "(D) Eyes"
+    ],
+    "answer": "(B) Time"
+  },
+  {
+    "id": 34,
+    "question": "Why should a resume be written before a job application letter?",
+    "options": [
+      "(A) Resume is seen first",
+      "(B) It helps decide what to highlight in the letter",
+      "(C) Resume is more important",
+      "(D) Employers don't read letters"
+    ],
+    "answer": "(B) It helps decide what to highlight in the letter"
+  },
+  {
+    "id": 35,
+    "question": "Personal grooming includes:",
+    "options": [
+      "(A) Regular bathing",
+      "(B) Dirty clothes",
+      "(C) Maintaining clean and trimmed nails",
+      "(D) Neglecting brushing"
+    ],
+    "answer": "(C) Maintaining clean and trimmed nails"
+  },
+  {
+    "id": 36,
+    "question": "Which is NOT relevant contact detail for a resume?",
+    "options": [
+      "(A) Email",
+      "(B) Social Security Number",
+      "(C) Phone Number",
+      "(D) LinkedIn"
+    ],
+    "answer": "(B) Social Security Number"
+  },
+  {
+    "id": 37,
+    "question": "Human behavior is influenced by:",
+    "options": [
+      "(A) Genetics",
+      "(B) Environment",
+      "(C) Both Genetics and Environment",
+      "(D) Social Media"
+    ],
+    "answer": "(C) Both Genetics and Environment"
+  },
+  {
+    "id": 38,
+    "question": "Which quality is important in a group discussion?",
+    "options": [
+      "(A) Hostility",
+      "(B) Emotional Stability",
+      "(C) Ignorance",
+      "(D) Aggressiveness"
+    ],
+    "answer": "(B) Emotional Stability"
+  },
+  {
+    "id": 39,
+    "question": "Regarding personality, which statement is FALSE?",
+    "options": [
+      "(A) Personality is unique",
+      "(B) It is a product of heredity and environment",
+      "(C) It includes only external qualities",
+      "(D) All of the above"
+    ],
+    "answer": "(C) It includes only external qualities"
+  },
+  {
+    "id": 40,
+    "question": "Essential elements of a good listening process:",
+    "options": [
+      "(A) Attention, Hear, Understand, Respond",
+      "(B) Attention, Hear, Understand, Remember",
+      "(C) Accept, Hear, Update, Remember",
+      "(D) Adopt, Hear, Understand, Response"
+    ],
+    "answer": "(A) Attention, Hear, Understand, Respond"
+  },
+  {
+    "id": 41,
+    "question": "Which is NOT a step in interview preparation?",
+    "options": [
+      "(A) Analyzing yourself",
+      "(B) Identifying your skills",
+      "(C) Asking about salary first",
+      "(D) Researching the company"
+    ],
+    "answer": "(C) Asking about salary first"
+  },
+  {
+    "id": 42,
+    "question": "Which is NOT a component of communication?",
+    "options": [
+      "(A) Verbal Information",
+      "(B) Para-language Information",
+      "(C) Non-verbal Information",
+      "(D) Feedback"
+    ],
+    "answer": "(D) Feedback"
+  },
+  {
+    "id": 43,
+    "question": "_____ is the study of body movements.",
+    "options": [
+      "(A) Kinesics",
+      "(B) Proxemics",
+      "(C) Chronemics",
+      "(D) Haptics"
+    ],
+    "answer": "(A) Kinesics"
+  },
+  {
+    "id": 44,
+    "question": "Curriculum Vitae (CV) is also known as:",
+    "options": [
+      "(A) Personal profile",
+      "(B) Personal data sheet",
+      "(C) Qualification sheet",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following are barriers to listening?",
+    "options": [
+      "(A) Laziness",
+      "(B) Premature evaluation",
+      "(C) External distraction",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 46,
+    "question": "Para-language communication means information transmitted by:",
+    "options": [
+      "(A) Expression and body postures",
+      "(B) Pitch, intonation, and voice pace",
+      "(C) Subject matter",
+      "(D) All of the above"
+    ],
+    "answer": "(B) Pitch, intonation, and voice pace"
+  },
+  {
+    "id": 47,
+    "question": "Listening process involves:",
+    "options": [
+      "(A) Processing data",
+      "(B) Reconstructing data",
+      "(C) Giving meaning to data",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 48,
+    "question": "Clear pronunciation is vital for _____ communication.",
+    "options": [
+      "(A) Written",
+      "(B) Oral",
+      "(C) External",
+      "(D) None of these"
+    ],
+    "answer": "(B) Oral"
+  },
+  {
+    "id": 49,
+    "question": "The candidate answering questions in an interview is the:",
+    "options": [
+      "(A) Interviewer",
+      "(B) Interviewee",
+      "(C) Communicator",
+      "(D) Teacher"
+    ],
+    "answer": "(B) Interviewee"
+  },
+  {
+    "id": 50,
+    "question": "Self-awareness is essential for:",
+    "options": [
+      "(A) Effective communication",
+      "(B) Developing empathy",
+      "(C) Making informed decisions",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 51,
+    "question": "Which is NOT a barrier to self-awareness?",
+    "options": [
+      "(A) Fear of failure",
+      "(B) Lack of empathy",
+      "(C) Ego defensiveness",
+      "(D) Overconfidence"
+    ],
+    "answer": "(B) Lack of empathy"
+  },
+  {
+    "id": 52,
+    "question": "Which is NOT a technique for increasing self-awareness?",
+    "options": [
+      "(A) Self-reflection",
+      "(B) Mind wandering",
+      "(C) Personality assessment",
+      "(D) Seeking feedback"
+    ],
+    "answer": "(B) Mind wandering"
+  },
+  {
+    "id": 53,
+    "question": "Proper grooming habits involve:",
+    "options": [
+      "(A) Neglecting dental care",
+      "(B) Skipping showers",
+      "(C) Regularly washing and grooming hair",
+      "(D) Strong perfume"
+    ],
+    "answer": "(C) Regularly washing and grooming hair"
+  },
+  {
+    "id": 54,
+    "question": "Primary purpose of makeup (in professional grooming):",
+    "options": [
+      "(A) To conceal imperfections",
+      "(B) To enhance natural features",
+      "(C) To change appearance completely",
+      "(D) To hide identity"
+    ],
+    "answer": "(B) To enhance natural features"
+  },
+  {
+    "id": 55,
+    "question": "Which product protects skin from UV rays?",
+    "options": [
+      "(A) Cleanser",
+      "(B) Moisturizer",
+      "(C) Sunscreen",
+      "(D) Toner"
+    ],
+    "answer": "(C) Sunscreen"
+  },
+  {
+    "id": 56,
+    "question": "Telephone interview communication happens primarily through:",
+    "options": [
+      "(A) Written message",
+      "(B) Face to face",
+      "(C) Telephone calls",
+      "(D) Video calls"
+    ],
+    "answer": "(C) Telephone calls"
+  },
+  {
+    "id": 57,
+    "question": "Technology typically used for telephone interviews:",
+    "options": [
+      "(A) Email",
+      "(B) Telephone",
+      "(C) Video conferencing",
+      "(D) Social media"
+    ],
+    "answer": "(B) Telephone"
+  },
+  {
+    "id": 58,
+    "question": "In which interview can body language be observed?",
+    "options": [
+      "(A) Face to Face Interview",
+      "(B) Telephone Interview",
+      "(C) Video Interview",
+      "(D) Panel Interview"
+    ],
+    "answer": "(A) Face to Face Interview"
+  },
+  {
+    "id": 59,
+    "question": "Essential for effective video interview communication:",
+    "options": [
+      "(A) Writing skills",
+      "(B) Voice modulation",
+      "(C) Good lighting and camera angle",
+      "(D) Telephone etiquette"
+    ],
+    "answer": "(C) Good lighting and camera angle"
+  },
+  {
+    "id": 60,
+    "question": "Important for clear communication in telephone interviews:",
+    "options": [
+      "(A) Written communication",
+      "(B) Voice clarity and tone",
+      "(C) Visual aids",
+      "(D) Body language"
+    ],
+    "answer": "(B) Voice clarity and tone"
+  },
+  {
+    "id": 61,
+    "question": "Primary advantage of Face-to-Face interviews:",
+    "options": [
+      "(A) Lower cost",
+      "(B) Convenience",
+      "(C) Ability to observe non-verbal cues",
+      "(D) Limited time commitment"
+    ],
+    "answer": "(C) Ability to observe non-verbal cues"
+  },
+  {
+    "id": 62,
+    "question": "Key advantage of a telephone interview:",
+    "options": [
+      "(A) Observe non-verbal cues",
+      "(B) Lower cost",
+      "(C) Convenience for remote candidates",
+      "(D) Technical skill assessment"
+    ],
+    "answer": "(C) Convenience for remote candidates"
+  },
+  {
+    "id": 63,
+    "question": "_____ is also known as a non-directed interview.",
+    "options": [
+      "(A) Structured",
+      "(B) Unstructured",
+      "(C) Depth",
+      "(D) All of the above"
+    ],
+    "answer": "(B) Unstructured"
+  },
+  {
+    "id": 64,
+    "question": "How should you dress for an interview?",
+    "options": [
+      "(A) Casual",
+      "(B) Bright colors",
+      "(C) Professional business attire",
+      "(D) Beachwear"
+    ],
+    "answer": "(C) Professional business attire"
+  },
+  {
+    "id": 65,
+    "question": "What should you bring to an interview?",
+    "options": [
+      "(A) Nothing",
+      "(B) A friend",
+      "(C) Copies of resume and references",
+      "(D) Your pet"
+    ],
+    "answer": "(C) Copies of resume and references"
+  },
+  {
+    "id": 66,
+    "question": "Importance of communication in an organization:",
+    "options": [
+      "(A) For direction",
+      "(B) For coordination",
+      "(C) For planning",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 67,
+    "question": "Characteristics of effective communication:",
+    "options": [
+      "(A) Clarity of meaning",
+      "(B) Conciseness",
+      "(C) Concreteness",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 68,
+    "question": "Which is NOT a personality trait for group discussion?",
+    "options": [
+      "(A) Listening",
+      "(B) Writing",
+      "(C) Leadership",
+      "(D) Creativity"
+    ],
+    "answer": "(B) Writing"
+  },
+  {
+    "id": 69,
+    "question": "Barriers to effective communication include:",
+    "options": [
+      "(A) Physical barriers",
+      "(B) Semantic barriers",
+      "(C) Psychological barriers",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 70,
+    "question": "Key components of non-verbal communication:",
+    "options": [
+      "(A) Eye contact",
+      "(B) Hand gestures",
+      "(C) Posture",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 71,
+    "question": "Proxemics is a form of:",
+    "options": [
+      "(A) Verbal communication",
+      "(B) Non-verbal communication",
+      "(C) Both A and B",
+      "(D) None"
+    ],
+    "answer": "(B) Non-verbal communication"
+  },
+  {
+    "id": 72,
+    "question": "Types of interviews used in organizations:",
+    "options": [
+      "(A) Placement interview",
+      "(B) Exit interview",
+      "(C) Counseling interview",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 73,
+    "question": "Communication types based on direction of flow:",
+    "options": [
+      "(A) Downward",
+      "(B) Upward",
+      "(C) Lateral",
+      "(D) All of these"
+    ],
+    "answer": "(D) All of these"
+  },
+  {
+    "id": 74,
+    "question": "Find the odd one out:",
+    "options": [
+      "(A) Oral communication",
+      "(B) Formal communication",
+      "(C) Pictorial communication",
+      "(D) Written communication"
+    ],
+    "answer": "(B) Formal communication"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is NOT a cue of body language?",
+    "options": [
+      "(A) Expression",
+      "(B) Touch",
+      "(C) Para-language",
+      "(D) Gestures"
+    ],
+    "answer": "(C) Para-language"
+  }
+]
