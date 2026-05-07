@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The phrase \"Unity in Diversity\" best describes:",
+    "options": [
+      "(A) Economic growth",
+      "(B) Cultural variety within national unity",
+      "(C) Political division",
+      "(D) Uniform language"
+    ],
+    "answer": "(B) Cultural variety within national unity"
+  },
+  {
+    "id": 2,
+    "question": "The geographical diversity of India contributes to:",
+    "options": [
+      "(A) Cultural monotony",
+      "(B) Social uniformity",
+      "(C) Cultural richness",
+      "(D) Political instability"
+    ],
+    "answer": "(C) Cultural richness"
+  },
+  {
+    "id": 3,
+    "question": "The term \"Indian Diaspora\" refers to:",
+    "options": [
+      "(A) Foreigners living in India",
+      "(B) Indians living abroad",
+      "(C) Tourists visiting India",
+      "(D) Refugees in India"
+    ],
+    "answer": "(B) Indians living abroad"
+  },
+  {
+    "id": 4,
+    "question": "Which aspect is central to India’s unity?",
+    "options": [
+      "(A) Religious intolerance",
+      "(B) Linguistic conflict",
+      "(C) Cultural harmony",
+      "(D) Political division"
+    ],
+    "answer": "(C) Cultural harmony"
+  },
+  {
+    "id": 5,
+    "question": "The Indus Valley Civilization is known as:",
+    "options": [
+      "(A) Vedic civilization",
+      "(B) Ancient urban civilization",
+      "(C) Medieval kingdom",
+      "(D) Mauryan dynasty"
+    ],
+    "answer": "(B) Ancient urban civilization"
+  },
+  {
+    "id": 6,
+    "question": "Founder of Jainism:",
+    "options": [
+      "(A) Gautama Buddha",
+      "(B) Kapila",
+      "(C) Mahavira",
+      "(D) Shankaracharya"
+    ],
+    "answer": "(C) Mahavira"
+  },
+  {
+    "id": 7,
+    "question": "Founder of Buddhism:",
+    "options": [
+      "(A) Mahavira",
+      "(B) Buddha",
+      "(C) Patanjali",
+      "(D) Ashoka"
+    ],
+    "answer": "(B) Buddha"
+  },
+  {
+    "id": 8,
+    "question": "‘Shadarsan’ refers to:",
+    "options": [
+      "(A) Six schools of Indian philosophy",
+      "(B) Six types of art",
+      "(C) Six forms of literature",
+      "(D) Six Buddhist texts"
+    ],
+    "answer": "(A) Six schools of Indian philosophy"
+  },
+  {
+    "id": 9,
+    "question": "Vedanta philosophy is based on the:",
+    "options": [
+      "(A) Upanishads",
+      "(B) Vedas",
+      "(C) Ramayana",
+      "(D) Arthashastra"
+    ],
+    "answer": "(A) Upanishads"
+  },
+  {
+    "id": 10,
+    "question": "Adi Shankaracharya preached the philosophy of:",
+    "options": [
+      "(A) Dvaita",
+      "(B) Advaita (non-dualism)",
+      "(C) Vishishtadvaita",
+      "(D) Buddhism"
+    ],
+    "answer": "(B) Advaita (non-dualism)"
+  },
+  {
+    "id": 11,
+    "question": "Ramanuja was associated with:",
+    "options": [
+      "(A) Advaita",
+      "(B) Dvaita",
+      "(C) Vishishtadvaita",
+      "(D) Charvaka"
+    ],
+    "answer": "(C) Vishishtadvaita"
+  },
+  {
+    "id": 12,
+    "question": "Nirgun Bhakti saints believed in:",
+    "options": [
+      "(A) Idol worship",
+      "(B) Formless God",
+      "(C) Temple rituals",
+      "(D) Caste hierarchy"
+    ],
+    "answer": "(B) Formless God"
+  },
+  {
+    "id": 13,
+    "question": "Kabir and Nanak were:",
+    "options": [
+      "(A) Sagun bhakti saints",
+      "(B) Jain monks",
+      "(C) Nirgun bhakti saints",
+      "(D) Buddhist preachers"
+    ],
+    "answer": "(C) Nirgun bhakti saints"
+  },
+  {
+    "id": 14,
+    "question": "Sufi saints emphasized:",
+    "options": [
+      "(A) Love and devotion to God",
+      "(B) Materialism",
+      "(C) Political power",
+      "(D) Ascetic isolation"
+    ],
+    "answer": "(A) Love and devotion to God"
+  },
+  {
+    "id": 15,
+    "question": "The Bhakti Movement started during:",
+    "options": [
+      "(A) Vedic period",
+      "(B) Medieval period",
+      "(C) Modern period",
+      "(D) British period"
+    ],
+    "answer": "(B) Medieval period"
+  },
+  {
+    "id": 16,
+    "question": "The author of Ramayana is:",
+    "options": [
+      "(A) Vyasa",
+      "(B) Tulsidas",
+      "(C) Kalidasa",
+      "(D) Valmiki"
+    ],
+    "answer": "(D) Valmiki"
+  },
+  {
+    "id": 17,
+    "question": "Mahabharata was written by:",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Vyasa",
+      "(D) Banabhatta"
+    ],
+    "answer": "(C) Vyasa"
+  },
+  {
+    "id": 18,
+    "question": "Silappadikaram is a work of:",
+    "options": [
+      "(A) Sanskrit literature",
+      "(B) Tamil literature",
+      "(C) Pali literature",
+      "(D) Prakrit literature"
+    ],
+    "answer": "(B) Tamil literature"
+  },
+  {
+    "id": 19,
+    "question": "Kalidasa’s famous play:",
+    "options": [
+      "(A) Mrichhakatika",
+      "(B) Kadambari",
+      "(C) Mudrarakshasa",
+      "(D) Abhijnanasakuntalam"
+    ],
+    "answer": "(D) Abhijnanasakuntalam"
+  },
+  {
+    "id": 20,
+    "question": "Banabhatta wrote:",
+    "options": [
+      "(A) Harshacharita",
+      "(B) Rajatarangini",
+      "(C) Arthashastra",
+      "(D) Meghaduta"
+    ],
+    "answer": "(A) Harshacharita"
+  },
+  {
+    "id": 21,
+    "question": "Aryabhata is famous for his work on:",
+    "options": [
+      "(A) Medicine",
+      "(B) Astronomy and Mathematics",
+      "(C) Literature",
+      "(D) Philosophy"
+    ],
+    "answer": "(B) Astronomy and Mathematics"
+  },
+  {
+    "id": 22,
+    "question": "The book Aryabhatiya was written by:",
+    "options": [
+      "(A) Varahamihira",
+      "(B) Brahmagupta",
+      "(C) Aryabhata",
+      "(D) Bhaskara"
+    ],
+    "answer": "(C) Aryabhata"
+  },
+  {
+    "id": 23,
+    "question": "Aryabhata suggested that the Earth:",
+    "options": [
+      "(A) Is flat",
+      "(B) Is stationary",
+      "(C) Rotates on its axis",
+      "(D) Is the center of the universe"
+    ],
+    "answer": "(C) Rotates on its axis"
+  },
+  {
+    "id": 24,
+    "question": "Varahamihira wrote:",
+    "options": [
+      "(A) Panchasiddhantika",
+      "(B) Aryabhatiya",
+      "(C) Lilavati",
+      "(D) Surya Siddhanta"
+    ],
+    "answer": "(A) Panchasiddhantika"
+  },
+  {
+    "id": 25,
+    "question": "Brahmagupta was the first to define:",
+    "options": [
+      "(A) The concept of zero",
+      "(B) The law of gravity",
+      "(C) The decimal system",
+      "(D) Planetary motion"
+    ],
+    "answer": "(A) The concept of zero"
+  },
+  {
+    "id": 26,
+    "question": "Ancient Indian mathematicians made early contributions to:",
+    "options": [
+      "(A) Geometry and trigonometry",
+      "(B) Rocket science",
+      "(C) Nuclear theory",
+      "(D) Algebra only"
+    ],
+    "answer": "(A) Geometry and trigonometry"
+  },
+  {
+    "id": 27,
+    "question": "The decimal system was developed in:",
+    "options": [
+      "(A) China",
+      "(B) Greece",
+      "(C) India",
+      "(D) Egypt"
+    ],
+    "answer": "(C) India"
+  },
+  {
+    "id": 28,
+    "question": "Which astronomer calculated the solar year precisely?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Ptolemy",
+      "(C) Bhaskara",
+      "(D) Al-Biruni"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 29,
+    "question": "Varahamihira was associated with the court of:",
+    "options": [
+      "(A) Ashoka",
+      "(B) Harshavardhana",
+      "(C) Chandragupta II (Vikramaditya)",
+      "(D) Akbar"
+    ],
+    "answer": "(C) Chandragupta II (Vikramaditya)"
+  },
+  {
+    "id": 30,
+    "question": "Brahmagupta’s famous work is:",
+    "options": [
+      "(A) Brihat Samhita",
+      "(B) Brahmasphutasiddhanta",
+      "(C) Rajatarangini",
+      "(D) Lilavati"
+    ],
+    "answer": "(B) Brahmasphutasiddhanta"
+  },
+  {
+    "id": 31,
+    "question": "Ashoka Pillars are mainly made of:",
+    "options": [
+      "(A) Iron",
+      "(B) Marble",
+      "(C) Granite",
+      "(D) Sandstone"
+    ],
+    "answer": "(D) Sandstone"
+  },
+  {
+    "id": 32,
+    "question": "The emblem of India (Four Lions) is from:",
+    "options": [
+      "(A) Sanchi Stupa",
+      "(B) Sarnath Lion Capital",
+      "(C) Ajanta Cave",
+      "(D) Khajuraho Temple"
+    ],
+    "answer": "(B) Sarnath Lion Capital"
+  },
+  {
+    "id": 33,
+    "question": "Sanchi Stupa was built by:",
+    "options": [
+      "(A) Ashoka",
+      "(B) Harsha",
+      "(C) Chandragupta Maurya",
+      "(D) Kanishka"
+    ],
+    "answer": "(A) Ashoka"
+  },
+  {
+    "id": 34,
+    "question": "Ajanta Caves are famous for:",
+    "options": [
+      "(A) Stone inscriptions",
+      "(B) Buddhist paintings and sculptures",
+      "(C) Jain temples",
+      "(D) Islamic calligraphy"
+    ],
+    "answer": "(B) Buddhist paintings and sculptures"
+  },
+  {
+    "id": 35,
+    "question": "Ellora Caves represent:",
+    "options": [
+      "(A) Hinduism",
+      "(B) Buddhism",
+      "(C) Jainism",
+      "(D) All three religions"
+    ],
+    "answer": "(D) All three religions"
+  },
+  {
+    "id": 36,
+    "question": "The Kailash Temple at Ellora was carved from:",
+    "options": [
+      "(A) Marble",
+      "(B) A single rock",
+      "(C) Iron",
+      "(D) Sandstone"
+    ],
+    "answer": "(B) A single rock"
+  },
+  {
+    "id": 37,
+    "question": "Konark Sun Temple is located in:",
+    "options": [
+      "(A) Odisha",
+      "(B) Tamil Nadu",
+      "(C) Karnataka",
+      "(D) Rajasthan"
+    ],
+    "answer": "(A) Odisha"
+  },
+  {
+    "id": 38,
+    "question": "Konark Temple was built by:",
+    "options": [
+      "(A) Ashoka",
+      "(B) Narasimhadeva I",
+      "(C) Krishnadevaraya",
+      "(D) Rajaraja Chola"
+    ],
+    "answer": "(B) Narasimhadeva I"
+  },
+  {
+    "id": 39,
+    "question": "The architectural style of Konark Temple resembles:",
+    "options": [
+      "(A) A chariot of the Sun God",
+      "(B) A lotus",
+      "(C) A mountain",
+      "(D) A wheel"
+    ],
+    "answer": "(A) A chariot of the Sun God"
+  },
+  {
+    "id": 40,
+    "question": "Khajuraho temples were built by:",
+    "options": [
+      "(A) Chandela rulers",
+      "(B) Mauryas",
+      "(C) Guptas",
+      "(D) Rashtrakutas"
+    ],
+    "answer": "(A) Chandela rulers"
+  },
+  {
+    "id": 41,
+    "question": "Rabindranath Tagore was awarded the Nobel Prize for:",
+    "options": [
+      "(A) Gora",
+      "(B) Gitanjali",
+      "(C) Sadhana",
+      "(D) Nationalism"
+    ],
+    "answer": "(B) Gitanjali"
+  },
+  {
+    "id": 42,
+    "question": "Tagore founded:",
+    "options": [
+      "(A) Shantiniketan",
+      "(B) Arya Samaj",
+      "(C) Ramakrishna Mission",
+      "(D) Aligarh Movement"
+    ],
+    "answer": "(A) Shantiniketan"
+  },
+  {
+    "id": 43,
+    "question": "The National Anthem of India was written by:",
+    "options": [
+      "(A) Bankim Chandra",
+      "(B) Tagore",
+      "(C) Harivansh Rai Bachchan",
+      "(D) Subramania Bharati"
+    ],
+    "answer": "(B) Tagore"
+  },
+  {
+    "id": 44,
+    "question": "Bankim Chandra Chattopadhyay wrote:",
+    "options": [
+      "(A) Vande Mataram",
+      "(B) Jana Gana Mana",
+      "(C) Sare Jahan Se Achha",
+      "(D) Hind Swaraj"
+    ],
+    "answer": "(A) Vande Mataram"
+  },
+  {
+    "id": 45,
+    "question": "Sarojini Naidu was known as:",
+    "options": [
+      "(A) Mother of the Nation",
+      "(B) Iron Lady of India",
+      "(C) Nightingale of India",
+      "(D) First Indian pilot"
+    ],
+    "answer": "(C) Nightingale of India"
+  },
+  {
+    "id": 46,
+    "question": "Bankim Chandra’s novel Anandamath inspired:",
+    "options": [
+      "(A) The song \"Vande Mataram\"",
+      "(B) The Indian Constitution",
+      "(C) The National Flag",
+      "(D) Gandhi’s philosophy"
+    ],
+    "answer": "(A) The song \"Vande Mataram\""
+  },
+  {
+    "id": 47,
+    "question": "Sarojini Naidu participated in:",
+    "options": [
+      "(A) Civil Disobedience Movement",
+      "(B) Non-Cooperation Movement",
+      "(C) Both A and B",
+      "(D) None"
+    ],
+    "answer": "(C) Both A and B"
+  },
+  {
+    "id": 48,
+    "question": "Bhagat Singh’s famous slogan:",
+    "options": [
+      "(A) \"Inquilab Zindabad\"",
+      "(B) \"Jai Hind\"",
+      "(C) \"Satyamev Jayate\"",
+      "(D) \"Vande Mataram\""
+    ],
+    "answer": "(A) \"Inquilab Zindabad\""
+  },
+  {
+    "id": 49,
+    "question": "Dadabhai Naoroji was the first Indian MP in:",
+    "options": [
+      "(A) Congress Party Office",
+      "(B) Indian Parliament",
+      "(C) United Nations",
+      "(D) British Parliament"
+    ],
+    "answer": "(D) British Parliament"
+  },
+  {
+    "id": 50,
+    "question": "Durgabai Deshmukh is remembered for her work in:",
+    "options": [
+      "(A) Social welfare and women’s empowerment",
+      "(B) Industrial development",
+      "(C) Literature",
+      "(D) Architecture"
+    ],
+    "answer": "(A) Social welfare and women’s empowerment"
+  }
+]
