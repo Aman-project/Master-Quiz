@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is the main reason for India's cultural diversity?",
+    "options": [
+      "(A) Large population",
+      "(B) Geographical variety",
+      "(C) Influence of foreign invaders",
+      "(D) Industrial development"
+    ],
+    "answer": "(B) Geographical variety"
+  },
+  {
+    "id": 2,
+    "question": "The Indian diaspora refers to:",
+    "options": [
+      "(A) Indigenous Indian population",
+      "(B) Indians living abroad",
+      "(C) Foreign-born residents in India",
+      "(D) Regional populations within India"
+    ],
+    "answer": "(B) Indians living abroad"
+  },
+  {
+    "id": 3,
+    "question": "The Vedic culture was primarily based on:",
+    "options": [
+      "(A) The Upanishads",
+      "(B) The Vedas",
+      "(C) The Ramayana",
+      "(D) Jain texts"
+    ],
+    "answer": "(B) The Vedas"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is the primary feature of India's unity in diversity?",
+    "options": [
+      "(A) Same language",
+      "(B) Shared cultural practices",
+      "(C) Religious tolerance",
+      "(D) Single cultural heritage"
+    ],
+    "answer": "(C) Religious tolerance"
+  },
+  {
+    "id": 5,
+    "question": "The Indus Valley Civilization was known for:",
+    "options": [
+      "(A) Its military strength",
+      "(B) Urban planning and drainage systems",
+      "(C) Nomadic lifestyle",
+      "(D) Reliance on agriculture alone"
+    ],
+    "answer": "(B) Urban planning and drainage systems"
+  },
+  {
+    "id": 6,
+    "question": "Which philosophy is associated with the teachings of Shankaracharya?",
+    "options": [
+      "(A) Advaita Vedanta",
+      "(B) Sankhya Yoga",
+      "(C) Vaishnavism",
+      "(D) Buddhism"
+    ],
+    "answer": "(A) Advaita Vedanta"
+  },
+  {
+    "id": 7,
+    "question": "Jainism teaches the path to liberation through:",
+    "options": [
+      "(A) Bhakti (devotion)",
+      "(B) Knowledge (jnana)",
+      "(C) Non-violence (ahimsa)",
+      "(D) Meditation and asceticism"
+    ],
+    "answer": "(C) Non-violence (ahimsa)"
+  },
+  {
+    "id": 8,
+    "question": "Which religious leader founded Buddhism?",
+    "options": [
+      "(A) Mahavir",
+      "(B) Buddha (Siddhartha Gautama)",
+      "(C) Shankaracharya",
+      "(D) Guru Nanak"
+    ],
+    "answer": "(B) Buddha (Siddhartha Gautama)"
+  },
+  {
+    "id": 9,
+    "question": "Which concept is central to the philosophy of Vedanta?",
+    "options": [
+      "(A) Karma",
+      "(B) Moksha",
+      "(C) The oneness of the self (Atman) and the ultimate reality (Brahman)",
+      "(D) Reincarnation"
+    ],
+    "answer": "(C) The oneness of the self (Atman) and the ultimate reality (Brahman)"
+  },
+  {
+    "id": 10,
+    "question": "Who among the following was a proponent of Vishishtadvaita (qualified non-dualism)?",
+    "options": [
+      "(A) Ramanuja",
+      "(B) Shankaracharya",
+      "(C) Guru Nanak",
+      "(D) Kabir"
+    ],
+    "answer": "(A) Ramanuja"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a characteristic of Nirgun Bhakti?",
+    "options": [
+      "(A) Devotion to an idol of God",
+      "(B) Worship of formless God",
+      "(C) Emphasis on rituals",
+      "(D) Meditation on nature"
+    ],
+    "answer": "(B) Worship of formless God"
+  },
+  {
+    "id": 12,
+    "question": "Sufism emphasizes the practice of:",
+    "options": [
+      "(A) Meditation",
+      "(B) Rituals",
+      "(C) Mystical devotion to God",
+      "(D) Material wealth"
+    ],
+    "answer": "(C) Mystical devotion to God"
+  },
+  {
+    "id": 13,
+    "question": "The Mahabharata was written by:",
+    "options": [
+      "(A) Kalidas",
+      "(B) Valmiki",
+      "(C) Vyasa",
+      "(D) Banabhatta"
+    ],
+    "answer": "(C) Vyasa"
+  },
+  {
+    "id": 14,
+    "question": "Who is the author of the epic Ramayana?",
+    "options": [
+      "(A) Kalhan",
+      "(B) Kalidas",
+      "(C) Valmiki",
+      "(D) Banabhatta"
+    ],
+    "answer": "(C) Valmiki"
+  },
+  {
+    "id": 15,
+    "question": "In which language is the Tamil epic \"Silappatikaram\" written?",
+    "options": [
+      "(A) Sanskrit",
+      "(B) Tamil",
+      "(C) Pali",
+      "(D) Prakrit"
+    ],
+    "answer": "(B) Tamil"
+  },
+  {
+    "id": 16,
+    "question": "Who wrote the Sanskrit drama \"Shakuntala\"?",
+    "options": [
+      "(A) Bhavabhuti",
+      "(B) Kalidas",
+      "(C) Bhasa",
+      "(D) Banabhatta"
+    ],
+    "answer": "(B) Kalidas"
+  },
+  {
+    "id": 17,
+    "question": "The work 'Rajatarangini' was written by:",
+    "options": [
+      "(A) Kalhan",
+      "(B) Banabhatta",
+      "(C) Abu Fazal",
+      "(D) Kautilya"
+    ],
+    "answer": "(A) Kalhan"
+  },
+  {
+    "id": 18,
+    "question": "Kautilya's 'Arthashastra' deals with:",
+    "options": [
+      "(A) Literature",
+      "(B) Science and mathematics",
+      "(C) Statecraft, economics, and military strategy",
+      "(D) Philosophy"
+    ],
+    "answer": "(C) Statecraft, economics, and military strategy"
+  },
+  {
+    "id": 19,
+    "question": "Banabhatta was a renowned author and scholar from the court of which king?",
+    "options": [
+      "(A) Chandragupta Maurya",
+      "(B) Harsha Vardhana",
+      "(C) Samudragupta",
+      "(D) Ashoka"
+    ],
+    "answer": "(B) Harsha Vardhana"
+  },
+  {
+    "id": 20,
+    "question": "Who wrote 'Bharatendu Harishchandra' and was known for his contribution to Hindi literature?",
+    "options": [
+      "(A) Rabindranath Tagore",
+      "(B) Kavi Pradeep",
+      "(C) Bharatendu Harishchandra",
+      "(D) Surdas"
+    ],
+    "answer": "(C) Bharatendu Harishchandra"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following was an ancient Indian mathematician who is credited with the concept of zero?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Varahamihira",
+      "(C) Brahmagupta",
+      "(D) Bhaskara"
+    ],
+    "answer": "(C) Brahmagupta"
+  },
+  {
+    "id": 22,
+    "question": "Who was the first to propose that the Earth rotates on its axis?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Bhaskara",
+      "(C) Brahmagupta",
+      "(D) Varahamihira"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 23,
+    "question": "Which Indian mathematician is known for his work on trigonometry and algebra?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Brahmagupta",
+      "(C) Bhaskara II",
+      "(D) Varahamihira"
+    ],
+    "answer": "(C) Bhaskara II"
+  },
+  {
+    "id": 24,
+    "question": "The 'Sushruta Samhita' is a famous text on:",
+    "options": [
+      "(A) Mathematics",
+      "(B) Astronomy",
+      "(C) Surgery and medicine",
+      "(D) Architecture"
+    ],
+    "answer": "(C) Surgery and medicine"
+  },
+  {
+    "id": 25,
+    "question": "Who is regarded as the father of Indian astronomy?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Varahamihira",
+      "(C) Brahmagupta",
+      "(D) Bhaskara I"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 26,
+    "question": "The Sanchi Stupa is associated with which religion?",
+    "options": [
+      "(A) Jainism",
+      "(B) Buddhism",
+      "(C) Hinduism",
+      "(D) Sikhism"
+    ],
+    "answer": "(B) Buddhism"
+  },
+  {
+    "id": 27,
+    "question": "The Konark Sun Temple is located in which state of India?",
+    "options": [
+      "(A) Tamil Nadu",
+      "(B) Odisha",
+      "(C) Karnataka",
+      "(D) Rajasthan"
+    ],
+    "answer": "(B) Odisha"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a famous example of rock-cut architecture in India?",
+    "options": [
+      "(A) Khajuraho temples",
+      "(B) Ajanta Caves",
+      "(C) Sanchi Stupa",
+      "(D) Sun Temple"
+    ],
+    "answer": "(B) Ajanta Caves"
+  },
+  {
+    "id": 29,
+    "question": "Which structure is famous for its erotic sculptures in India?",
+    "options": [
+      "(A) Ajanta Caves",
+      "(B) Khajuraho Temples",
+      "(C) Sanchi Stupa",
+      "(D) Konark Sun Temple"
+    ],
+    "answer": "(B) Khajuraho Temples"
+  },
+  {
+    "id": 30,
+    "question": "Which emperor’s reign is associated with the construction of the Ashoka Pillars?",
+    "options": [
+      "(A) Chandragupta Maurya",
+      "(B) Ashoka the Great",
+      "(C) Samudragupta",
+      "(D) Harsha Vardhana"
+    ],
+    "answer": "(B) Ashoka the Great"
+  },
+  {
+    "id": 31,
+    "question": "Which freedom fighter is known for his role in the Jallianwala Bagh massacre protest?",
+    "options": [
+      "(A) Bhagat Singh",
+      "(B) Rabindranath Tagore",
+      "(C) Durgabai Deshmukh",
+      "(D) Lala Lajpat Rai"
+    ],
+    "answer": "(D) Lala Lajpat Rai"
+  },
+  {
+    "id": 32,
+    "question": "Who is the author of India's national anthem?",
+    "options": [
+      "(A) Bankim Chandra Chattopadhyay",
+      "(B) Rabindranath Tagore",
+      "(C) Kavi Pradeep",
+      "(D) Subhas Chandra Bose"
+    ],
+    "answer": "(B) Rabindranath Tagore"
+  },
+  {
+    "id": 33,
+    "question": "Who wrote the famous patriotic song 'Vande Mataram'?",
+    "options": [
+      "(A) Sarojini Naidu",
+      "(B) Bankim Chandra Chattopadhyay",
+      "(C) Rabindranath Tagore",
+      "(D) Subhas Chandra Bose"
+    ],
+    "answer": "(B) Bankim Chandra Chattopadhyay"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following women leaders was active in the Indian independence movement and was the first woman to become the president of the Indian National Congress?",
+    "options": [
+      "(A) Sarojini Naidu",
+      "(B) Sucheta Kriplani",
+      "(C) Durgabai Deshmukh",
+      "(D) Kasturba Gandhi"
+    ],
+    "answer": "(A) Sarojini Naidu"
+  },
+  {
+    "id": 35,
+    "question": "Which revolutionary freedom fighter is known for his famous statement, 'Inquilab Zindabad'?",
+    "options": [
+      "(A) Bhagat Singh",
+      "(B) Subhas Chandra Bose",
+      "(C) Lala Lajpat Rai",
+      "(D) Rajguru"
+    ],
+    "answer": "(A) Bhagat Singh"
+  },
+  {
+    "id": 36,
+    "question": "The phrase \"Unity in Diversity\" was coined by:",
+    "options": [
+      "(A) Jawaharlal Nehru",
+      "(B) Mahatma Gandhi",
+      "(C) Rabindranath Tagore",
+      "(D) Sardar Patel"
+    ],
+    "answer": "(A) Jawaharlal Nehru"
+  },
+  {
+    "id": 37,
+    "question": "Who was the last king of the Maurya dynasty?",
+    "options": [
+      "(A) Ashoka",
+      "(B) Chandragupta Maurya",
+      "(C) Bindusara",
+      "(D) Brihadratha"
+    ],
+    "answer": "(D) Brihadratha"
+  },
+  {
+    "id": 38,
+    "question": "Who among the following is considered the founder of the Gupta Empire?",
+    "options": [
+      "(A) Chandragupta Maurya",
+      "(B) Samudragupta",
+      "(C) Vikramaditya",
+      "(D) Chandragupta I"
+    ],
+    "answer": "(D) Chandragupta I"
+  },
+  {
+    "id": 39,
+    "question": "The famous 'Dandi March' was led by which leader?",
+    "options": [
+      "(A) Mahatma Gandhi",
+      "(B) Jawaharlal Nehru",
+      "(C) Subhas Chandra Bose",
+      "(D) Sardar Patel"
+    ],
+    "answer": "(A) Mahatma Gandhi"
+  },
+  {
+    "id": 40,
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "(A) Indira Gandhi",
+      "(B) Sarojini Naidu",
+      "(C) Rajkumari Amrit Kaur",
+      "(D) Sucheta Kriplani"
+    ],
+    "answer": "(A) Indira Gandhi"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following best represents the idea of \"Unity in Diversity\" in India?",
+    "options": [
+      "(A) Uniform religious practices across the nation",
+      "(B) The celebration of various festivals by different communities",
+      "(C) A single language spoken by all Indians",
+      "(D) All regions having the same climate"
+    ],
+    "answer": "(B) The celebration of various festivals by different communities"
+  },
+  {
+    "id": 42,
+    "question": "Which of these best illustrates the geographical diversity of India?",
+    "options": [
+      "(A) The presence of a single river system",
+      "(B) The presence of varied climates from deserts to tropical forests",
+      "(C) A common language across the nation",
+      "(D) All regions having the same natural resources"
+    ],
+    "answer": "(B) The presence of varied climates from deserts to tropical forests"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following regions in India is known for its cultural harmony despite its ethnic diversity?",
+    "options": [
+      "(A) Kashmir",
+      "(B) Punjab",
+      "(C) Kerala",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 44,
+    "question": "The ancient urban civilization of India is best represented by which archaeological site?",
+    "options": [
+      "(A) Harappa",
+      "(B) Khajuraho",
+      "(C) Ajanta",
+      "(D) Sanchi"
+    ],
+    "answer": "(A) Harappa"
+  },
+  {
+    "id": 45,
+    "question": "Vedic culture is primarily associated with:",
+    "options": [
+      "(A) Jainism",
+      "(B) Buddhism",
+      "(C) The Upanishads and the Vedas",
+      "(D) The Mughal Empire"
+    ],
+    "answer": "(C) The Upanishads and the Vedas"
+  },
+  {
+    "id": 46,
+    "question": "Who is considered the founder of Jainism?",
+    "options": [
+      "(A) Buddha",
+      "(B) Mahavira",
+      "(C) Shankaracharya",
+      "(D) Ramanuja"
+    ],
+    "answer": "(B) Mahavira"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a core teaching of Buddhism?",
+    "options": [
+      "(A) The Five Pillars of Islam",
+      "(B) The Four Noble Truths",
+      "(C) The Bhagavad Gita",
+      "(D) The Ten Commandments"
+    ],
+    "answer": "(B) The Four Noble Truths"
+  },
+  {
+    "id": 48,
+    "question": "The system of philosophical inquiry known as 'Shadarshan' refers to:",
+    "options": [
+      "(A) Six systems of Hindu philosophy",
+      "(B) Seven major Buddhist traditions",
+      "(C) The Six Noble Virtues in Buddhism",
+      "(D) The Eightfold Path"
+    ],
+    "answer": "(A) Six systems of Hindu philosophy"
+  },
+  {
+    "id": 49,
+    "question": "Who is the prominent philosopher associated with Advaita Vedanta?",
+    "options": [
+      "(A) Ramanuja",
+      "(B) Shankaracharya",
+      "(C) Buddha",
+      "(D) Swami Vivekananda"
+    ],
+    "answer": "(B) Shankaracharya"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a major work associated with Vedanta philosophy?",
+    "options": [
+      "(A) Bhagavad Gita",
+      "(B) Rigveda",
+      "(C) Upanishads",
+      "(D) Dhammapada"
+    ],
+    "answer": "(C) Upanishads"
+  }
+]
