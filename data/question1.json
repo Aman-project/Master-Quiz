@@ -1,0 +1,1058 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes India’s unity in diversity?",
+    "options": [
+      "(A) Geographical homogeneity",
+      "(B) Varied cultural traditions",
+      "(C) Uniform religious beliefs",
+      "(D) Political unity"
+    ],
+    "answer": "(B) Varied cultural traditions"
+  },
+  {
+    "id": 2,
+    "question": "Which civilization is known as the \"ancient urban civilization\" in Indian culture?",
+    "options": [
+      "(A) Mesopotamian",
+      "(B) Harappan",
+      "(C) Greek",
+      "(D) Roman"
+    ],
+    "answer": "(B) Harappan"
+  },
+  {
+    "id": 3,
+    "question": "The Indian diaspora primarily refers to:",
+    "options": [
+      "(A) Migration of Indians to urban areas.",
+      "(B) Indian communities living abroad.",
+      "(C) Tribal populations.",
+      "(D) Ancient Vedic settlers."
+    ],
+    "answer": "(B) Indian communities living abroad."
+  },
+  {
+    "id": 4,
+    "question": "What is a key element of Indian religious and cultural harmony?",
+    "options": [
+      "(A) Conflict resolution",
+      "(B) Mutual respect",
+      "(C) One dominant religion",
+      "(D) Unified rituals"
+    ],
+    "answer": "(B) Mutual respect"
+  },
+  {
+    "id": 5,
+    "question": "The Vedic culture is predominantly associated with:",
+    "options": [
+      "(A) Agricultural practices",
+      "(B) Sacred texts and rituals",
+      "(C) Metallurgy",
+      "(D) Maritime trade"
+    ],
+    "answer": "(B) Sacred texts and rituals"
+  },
+  {
+    "id": 6,
+    "question": "Who is considered the founder of Jainism?",
+    "options": [
+      "(A) Gautama Buddha",
+      "(B) Mahavira",
+      "(C) Shankaracharya",
+      "(D) Ramanuja"
+    ],
+    "answer": "(B) Mahavira"
+  },
+  {
+    "id": 7,
+    "question": "Which text outlines the concept of Shatdarshan?",
+    "options": [
+      "(A) Vedas",
+      "(B) Upanishads",
+      "(C) Arthashastra",
+      "(D) None of the above"
+    ],
+    "answer": "(A) Vedas"
+  },
+  {
+    "id": 8,
+    "question": "Vedanta is a philosophical school based on:",
+    "options": [
+      "(A) Rigveda",
+      "(B) Upanishads",
+      "(C) Arthashastra",
+      "(D) Puranas"
+    ],
+    "answer": "(B) Upanishads"
+  },
+  {
+    "id": 9,
+    "question": "The Bhakti movement emphasizes:",
+    "options": [
+      "(A) Ritualistic worship",
+      "(B) Devotion and love for God",
+      "(C) Meditation techniques",
+      "(D) Austerity and renunciation"
+    ],
+    "answer": "(B) Devotion and love for God"
+  },
+  {
+    "id": 10,
+    "question": "Sufism is associated with:",
+    "options": [
+      "(A) Hindu mysticism",
+      "(B) Islamic mysticism",
+      "(C) Jain meditation",
+      "(D) Buddhist enlightenment"
+    ],
+    "answer": "(B) Islamic mysticism"
+  },
+  {
+    "id": 11,
+    "question": "Who wrote the epic Ramayana?",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Vyasa",
+      "(D) Banabhatta"
+    ],
+    "answer": "(B) Valmiki"
+  },
+  {
+    "id": 12,
+    "question": "The Mahabharata was composed by:",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Vyasa",
+      "(D) Bhavabhuti"
+    ],
+    "answer": "(C) Vyasa"
+  },
+  {
+    "id": 13,
+    "question": "Who authored \"Meghaduta\" and \"Shakuntala\"?",
+    "options": [
+      "(A) Banabhatta",
+      "(B) Kalidasa",
+      "(C) Valmiki",
+      "(D) Vyasa"
+    ],
+    "answer": "(B) Kalidasa"
+  },
+  {
+    "id": 14,
+    "question": "Kautilya’s Arthashastra is primarily a treatise on:",
+    "options": [
+      "(A) Religion",
+      "(B) Statecraft and economy",
+      "(C) Literature",
+      "(D) Astronomy"
+    ],
+    "answer": "(B) Statecraft and economy"
+  },
+  {
+    "id": 15,
+    "question": "Banabhatta is known for which literary work?",
+    "options": [
+      "(A) Arthashastra",
+      "(B) Harshacharita",
+      "(C) Mahabharata",
+      "(D) Ramayana"
+    ],
+    "answer": "(B) Harshacharita"
+  },
+  {
+    "id": 16,
+    "question": "Aryabhata is best known for his work in:",
+    "options": [
+      "(A) Literature",
+      "(B) Astronomy and mathematics",
+      "(C) Sculpture",
+      "(D) Medicine"
+    ],
+    "answer": "(B) Astronomy and mathematics"
+  },
+  {
+    "id": 17,
+    "question": "Brahmagupta contributed significantly to:",
+    "options": [
+      "(A) Algebra and geometry",
+      "(B) Literature",
+      "(C) Sculpture",
+      "(D) Philosophy"
+    ],
+    "answer": "(A) Algebra and geometry"
+  },
+  {
+    "id": 18,
+    "question": "Which architectural site is associated with Emperor Ashoka?",
+    "options": [
+      "(A) Konark Temple",
+      "(B) Sanchi Stupa",
+      "(C) Ajanta Caves",
+      "(D) Khajuraho Temples"
+    ],
+    "answer": "(B) Sanchi Stupa"
+  },
+  {
+    "id": 19,
+    "question": "The Ellora Caves represent:",
+    "options": [
+      "(A) Buddhist art only",
+      "(B) Hindu, Buddhist, and Jain art",
+      "(C) Only Jain sculptures",
+      "(D) Mughal architecture"
+    ],
+    "answer": "(B) Hindu, Buddhist, and Jain art"
+  },
+  {
+    "id": 20,
+    "question": "The Khajuraho Temples are renowned for their:",
+    "options": [
+      "(A) Islamic influence",
+      "(B) Erotic sculptures",
+      "(C) Ashokan pillars",
+      "(D) Stupa architecture"
+    ],
+    "answer": "(B) Erotic sculptures"
+  },
+  {
+    "id": 21,
+    "question": "Who wrote \"Gitanjali\"?",
+    "options": [
+      "(A) Rabindranath Tagore",
+      "(B) Sarojini Naidu",
+      "(C) Bhagat Singh",
+      "(D) Dada Bhai Naoroji"
+    ],
+    "answer": "(A) Rabindranath Tagore"
+  },
+  {
+    "id": 22,
+    "question": "Who is known as the 'Nightingale of India'?",
+    "options": [
+      "(A) Sarojini Naidu",
+      "(B) Rabindranath Tagore",
+      "(C) Bankim Chandra Chattopadhyay",
+      "(D) Mahatma Gandhi"
+    ],
+    "answer": "(A) Sarojini Naidu"
+  },
+  {
+    "id": 23,
+    "question": "Bhagat Singh is associated with:",
+    "options": [
+      "(A) The Civil Disobedience Movement",
+      "(B) Armed resistance against the British",
+      "(C) Non-violent protests",
+      "(D) Establishing Indian National Congress"
+    ],
+    "answer": "(B) Armed resistance against the British"
+  },
+  {
+    "id": 24,
+    "question": "Who is considered the \"Grand Old Man of India\"?",
+    "options": [
+      "(A) Mahatma Gandhi",
+      "(B) Dadabhai Naoroji",
+      "(C) Rabindranath Tagore",
+      "(D) Subhas Chandra Bose"
+    ],
+    "answer": "(B) Dadabhai Naoroji"
+  },
+  {
+    "id": 25,
+    "question": "Bankim Chandra Chattopadhyay composed the national song:",
+    "options": [
+      "(A) Jana Gana Mana",
+      "(B) Vande Mataram",
+      "(C) Saare Jahan Se Achha",
+      "(D) Hindustan Hamara"
+    ],
+    "answer": "(B) Vande Mataram"
+  },
+  {
+    "id": 26,
+    "question": "Which aspect of Indian culture demonstrates unity despite linguistic diversity?",
+    "options": [
+      "(A) Common grammar",
+      "(B) Multilingual literature",
+      "(C) Shared festivals",
+      "(D) Ancient Sanskrit roots"
+    ],
+    "answer": "(C) Shared festivals"
+  },
+  {
+    "id": 27,
+    "question": "Which ancient script was used in the Harappan civilization?",
+    "options": [
+      "(A) Brahmi",
+      "(B) Indus script",
+      "(C) Devanagari",
+      "(D) Kharosthi"
+    ],
+    "answer": "(B) Indus script"
+  },
+  {
+    "id": 28,
+    "question": "India's philosophy of secularism is reflected in:",
+    "options": [
+      "(A) Economic policies",
+      "(B) Coexistence of all religions",
+      "(C) Industrialization",
+      "(D) Uniform customs"
+    ],
+    "answer": "(B) Coexistence of all religions"
+  },
+  {
+    "id": 29,
+    "question": "The term 'Veda' means:",
+    "options": [
+      "(A) Ritual",
+      "(B) Knowledge",
+      "(C) Hymn",
+      "(D) Prayer"
+    ],
+    "answer": "(B) Knowledge"
+  },
+  {
+    "id": 30,
+    "question": "Which region is famous for its Bhakti movement saints?",
+    "options": [
+      "(A) North India",
+      "(B) South India",
+      "(C) West India",
+      "(D) East India"
+    ],
+    "answer": "(B) South India"
+  },
+  {
+    "id": 31,
+    "question": "Which civilization is considered the precursor to Indian culture?",
+    "options": [
+      "(A) Greek",
+      "(B) Mesopotamian",
+      "(C) Harappan",
+      "(D) Chinese"
+    ],
+    "answer": "(C) Harappan"
+  },
+  {
+    "id": 32,
+    "question": "India's oldest surviving dance form is:",
+    "options": [
+      "(A) Bharatanatyam",
+      "(B) Kathakali",
+      "(C) Kathak",
+      "(D) Odissi"
+    ],
+    "answer": "(A) Bharatanatyam"
+  },
+  {
+    "id": 33,
+    "question": "The festival of Holi symbolizes:",
+    "options": [
+      "(A) Harvest celebration",
+      "(B) Victory of good over evil",
+      "(C) Arrival of monsoons",
+      "(D) Worship of rivers"
+    ],
+    "answer": "(B) Victory of good over evil"
+  },
+  {
+    "id": 34,
+    "question": "Which text is considered the foundation of Ayurveda?",
+    "options": [
+      "(A) Arthashastra",
+      "(B) Charaka Samhita",
+      "(C) Vedas",
+      "(D) Ramayana"
+    ],
+    "answer": "(B) Charaka Samhita"
+  },
+  {
+    "id": 35,
+    "question": "The Rigveda is primarily a collection of:",
+    "options": [
+      "(A) Hymns",
+      "(B) Rituals",
+      "(C) Laws",
+      "(D) Epics"
+    ],
+    "answer": "(A) Hymns"
+  },
+  {
+    "id": 36,
+    "question": "Which of these philosophers is associated with Advaita Vedanta?",
+    "options": [
+      "(A) Ramanuja",
+      "(B) Shankaracharya",
+      "(C) Mahavira",
+      "(D) Buddha"
+    ],
+    "answer": "(B) Shankaracharya"
+  },
+  {
+    "id": 37,
+    "question": "Buddha’s first sermon was delivered at:",
+    "options": [
+      "(A) Sarnath",
+      "(B) Lumbini",
+      "(C) Bodh Gaya",
+      "(D) Rajgir"
+    ],
+    "answer": "(A) Sarnath"
+  },
+  {
+    "id": 38,
+    "question": "Which philosophy advocates non-violence as its central principle?",
+    "options": [
+      "(A) Jainism",
+      "(B) Buddhism",
+      "(C) Vedanta",
+      "(D) Mimamsa"
+    ],
+    "answer": "(A) Jainism"
+  },
+  {
+    "id": 39,
+    "question": "The four noble truths are central to:",
+    "options": [
+      "(A) Hinduism",
+      "(B) Buddhism",
+      "(C) Jainism",
+      "(D) Sikhism"
+    ],
+    "answer": "(B) Buddhism"
+  },
+  {
+    "id": 40,
+    "question": "What does ‘Sufism’ in India emphasize?",
+    "options": [
+      "(A) Rituals",
+      "(B) Mystical connection with God",
+      "(C) Idol worship",
+      "(D) Material prosperity"
+    ],
+    "answer": "(B) Mystical connection with God"
+  },
+  {
+    "id": 41,
+    "question": "Who is the author of 'Brahmasutra'?",
+    "options": [
+      "(A) Veda Vyasa",
+      "(B) Shankaracharya",
+      "(C) Ramanuja",
+      "(D) Buddha"
+    ],
+    "answer": "(A) Veda Vyasa"
+  },
+  {
+    "id": 42,
+    "question": "The Bhagavad Gita is a discourse between:",
+    "options": [
+      "(A) Rama and Sita",
+      "(B) Krishna and Arjuna",
+      "(C) Duryodhana and Bhishma",
+      "(D) Narada and Vyasa"
+    ],
+    "answer": "(B) Krishna and Arjuna"
+  },
+  {
+    "id": 43,
+    "question": "The Triratnas of Jainism include:",
+    "options": [
+      "(A) Knowledge, austerity, and faith",
+      "(B) Right faith, right knowledge, and right conduct",
+      "(C) Non-violence, truth, and celibacy",
+      "(D) Meditation, prayer, and fasting"
+    ],
+    "answer": "(B) Right faith, right knowledge, and right conduct"
+  },
+  {
+    "id": 44,
+    "question": "Who was the founder of Sufism in India?",
+    "options": [
+      "(A) Amir Khusro",
+      "(B) Khwaja Moinuddin Chishti",
+      "(C) Bulleh Shah",
+      "(D) Kabir"
+    ],
+    "answer": "(B) Khwaja Moinuddin Chishti"
+  },
+  {
+    "id": 45,
+    "question": "Which school of philosophy advocates dualism?",
+    "options": [
+      "(A) Vedanta",
+      "(B) Nyaya",
+      "(C) Samkhya",
+      "(D) Charvaka"
+    ],
+    "answer": "(C) Samkhya"
+  },
+  {
+    "id": 46,
+    "question": "Who is called the 'Shakespeare of India'?",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Banabhatta",
+      "(D) Bharavi"
+    ],
+    "answer": "(A) Kalidasa"
+  },
+  {
+    "id": 47,
+    "question": "The Tamil Sangam literature is associated with:",
+    "options": [
+      "(A) Buddhist teachings",
+      "(B) Ancient Tamil poetry",
+      "(C) Religious rituals",
+      "(D) Scientific advancements"
+    ],
+    "answer": "(B) Ancient Tamil poetry"
+  },
+  {
+    "id": 48,
+    "question": "The Arthashastra is primarily about:",
+    "options": [
+      "(A) Science",
+      "(B) Medicine",
+      "(C) Politics and economics",
+      "(D) Literature"
+    ],
+    "answer": "(C) Politics and economics"
+  },
+  {
+    "id": 49,
+    "question": "Which medieval poet wrote the \"Prithviraj Raso\"?",
+    "options": [
+      "(A) Kalhan",
+      "(B) Chand Bardai",
+      "(C) Banabhatta",
+      "(D) Bhavabhuti"
+    ],
+    "answer": "(B) Chand Bardai"
+  },
+  {
+    "id": 50,
+    "question": "Who was the author of Harshacharita?",
+    "options": [
+      "(A) Banabhatta",
+      "(B) Valmiki",
+      "(C) Bharavi",
+      "(D) Kalidasa"
+    ],
+    "answer": "(A) Banabhatta"
+  },
+  {
+    "id": 51,
+    "question": "The Panchatantra stories were written by:",
+    "options": [
+      "(A) Banabhatta",
+      "(B) Vishnu Sharma",
+      "(C) Kalidasa",
+      "(D) Valmiki"
+    ],
+    "answer": "(B) Vishnu Sharma"
+  },
+  {
+    "id": 52,
+    "question": "Bharatendu Harishchandra is associated with which period of literature?",
+    "options": [
+      "(A) Ancient",
+      "(B) Medieval",
+      "(C) Modern",
+      "(D) Post-modern"
+    ],
+    "answer": "(C) Modern"
+  },
+  {
+    "id": 53,
+    "question": "Tulsidas composed which of the following texts?",
+    "options": [
+      "(A) Mahabharata",
+      "(B) Ramcharitmanas",
+      "(C) Arthashastra",
+      "(D) Gita Govinda"
+    ],
+    "answer": "(B) Ramcharitmanas"
+  },
+  {
+    "id": 54,
+    "question": "The ‘Abhijnanasakuntalam’ was composed by:",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Banabhatta",
+      "(D) Bhavabhuti"
+    ],
+    "answer": "(A) Kalidasa"
+  },
+  {
+    "id": 55,
+    "question": "Rajatarangini is a historical chronicle of which region?",
+    "options": [
+      "(A) Bihar",
+      "(B) Kashmir",
+      "(C) Gujarat",
+      "(D) Maharashtra"
+    ],
+    "answer": "(B) Kashmir"
+  },
+  {
+    "id": 56,
+    "question": "Who is known as the father of Indian astronomy?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Varahamihira",
+      "(C) Brahmagupta",
+      "(D) Bhaskaracharya"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 57,
+    "question": "Which monument is called the \"Crown of Palaces\"?",
+    "options": [
+      "(A) Red Fort",
+      "(B) Taj Mahal",
+      "(C) Hawa Mahal",
+      "(D) Lotus Temple"
+    ],
+    "answer": "(B) Taj Mahal"
+  },
+  {
+    "id": 58,
+    "question": "Who built the Iron Pillar in Delhi?",
+    "options": [
+      "(A) Chandragupta I",
+      "(B) Chandragupta II",
+      "(C) Ashoka",
+      "(D) Harshavardhana"
+    ],
+    "answer": "(B) Chandragupta II"
+  },
+  {
+    "id": 59,
+    "question": "The Konark Sun Temple is located in:",
+    "options": [
+      "(A) Karnataka",
+      "(B) Odisha",
+      "(C) Tamil Nadu",
+      "(D) Andhra Pradesh"
+    ],
+    "answer": "(B) Odisha"
+  },
+  {
+    "id": 60,
+    "question": "What is special about the Ashoka Pillars?",
+    "options": [
+      "(A) Built in marble",
+      "(B) Inscriptions of Ashoka's edicts",
+      "(C) Used as navigation tools",
+      "(D) Located in caves"
+    ],
+    "answer": "(B) Inscriptions of Ashoka's edicts"
+  },
+  {
+    "id": 61,
+    "question": "What does the phrase \"Unity in Diversity\" symbolize in Indian culture?",
+    "options": [
+      "(A) Similarity in traditions",
+      "(B) Peaceful coexistence of various cultures",
+      "(C) Uniform laws",
+      "(D) Political unity"
+    ],
+    "answer": "(B) Peaceful coexistence of various cultures"
+  },
+  {
+    "id": 62,
+    "question": "Which ancient text forms the basis of the Indian caste system?",
+    "options": [
+      "(A) Arthashastra",
+      "(B) Manusmriti",
+      "(C) Mahabharata",
+      "(D) Rigveda"
+    ],
+    "answer": "(B) Manusmriti"
+  },
+  {
+    "id": 63,
+    "question": "The concept of Dharma in Indian culture refers to:",
+    "options": [
+      "(A) Rituals",
+      "(B) Duty and righteousness",
+      "(C) Economic stability",
+      "(D) Religious practices"
+    ],
+    "answer": "(B) Duty and righteousness"
+  },
+  {
+    "id": 64,
+    "question": "India's national motto 'Satyameva Jayate' is taken from:",
+    "options": [
+      "(A) Bhagavad Gita",
+      "(B) Mundaka Upanishad",
+      "(C) Rigveda",
+      "(D) Arthashastra"
+    ],
+    "answer": "(B) Mundaka Upanishad"
+  },
+  {
+    "id": 65,
+    "question": "Which dance form is referred to as the 'Dance of Lord Shiva'?",
+    "options": [
+      "(A) Kathak",
+      "(B) Bharatanatyam",
+      "(C) Kuchipudi",
+      "(D) Odissi"
+    ],
+    "answer": "(B) Bharatanatyam"
+  },
+  {
+    "id": 66,
+    "question": "The term 'Ahimsa' is associated with which religion?",
+    "options": [
+      "(A) Hinduism",
+      "(B) Jainism",
+      "(C) Buddhism",
+      "(D) Sikhism"
+    ],
+    "answer": "(B) Jainism"
+  },
+  {
+    "id": 67,
+    "question": "Which Jain Tirthankara is associated with the spread of Jainism?",
+    "options": [
+      "(A) Rishabhanatha",
+      "(B) Parshvanatha",
+      "(C) Mahavira",
+      "(D) Neminatha"
+    ],
+    "answer": "(C) Mahavira"
+  },
+  {
+    "id": 68,
+    "question": "The concept of 'Middle Path' is a teaching of:",
+    "options": [
+      "(A) Mahavira",
+      "(B) Buddha",
+      "(C) Shankaracharya",
+      "(D) Guru Nanak"
+    ],
+    "answer": "(B) Buddha"
+  },
+  {
+    "id": 69,
+    "question": "Vedanta philosophy is primarily based on which texts?",
+    "options": [
+      "(A) Upanishads",
+      "(B) Vedas",
+      "(C) Puranas",
+      "(D) Ramayana"
+    ],
+    "answer": "(A) Upanishads"
+  },
+  {
+    "id": 70,
+    "question": "The teachings of Sufism in India were spread primarily by:",
+    "options": [
+      "(A) Kabir",
+      "(B) Amir Khusro",
+      "(C) Khwaja Moinuddin Chishti",
+      "(D) Guru Nanak"
+    ],
+    "answer": "(C) Khwaja Moinuddin Chishti"
+  },
+  {
+    "id": 71,
+    "question": "The 'Ramayana' was written by:",
+    "options": [
+      "(A) Veda Vyasa",
+      "(B) Valmiki",
+      "(C) Kalidasa",
+      "(D) Bhavabhuti"
+    ],
+    "answer": "(B) Valmiki"
+  },
+  {
+    "id": 72,
+    "question": "The Mahabharata includes which sacred text?",
+    "options": [
+      "(A) Rigveda",
+      "(B) Arthashastra",
+      "(C) Bhagavad Gita",
+      "(D) Upanishads"
+    ],
+    "answer": "(C) Bhagavad Gita"
+  },
+  {
+    "id": 73,
+    "question": "Who wrote the Tamil epic 'Silappadikaram'?",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Ilango Adigal",
+      "(C) Banabhatta",
+      "(D) Bharavi"
+    ],
+    "answer": "(B) Ilango Adigal"
+  },
+  {
+    "id": 74,
+    "question": "'Raghuvamsa' was written by:",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Bhavabhuti",
+      "(C) Vishnu Sharma",
+      "(D) Valmiki"
+    ],
+    "answer": "(A) Kalidasa"
+  },
+  {
+    "id": 75,
+    "question": "The literary work 'Arthashastra' focuses on:",
+    "options": [
+      "(A) Poetry",
+      "(B) Statecraft and economics",
+      "(C) Religious rituals",
+      "(D) Social reforms"
+    ],
+    "answer": "(B) Statecraft and economics"
+  },
+  {
+    "id": 76,
+    "question": "Which Sanskrit play was authored by Shudraka?",
+    "options": [
+      "(A) Mrichchhakatika",
+      "(B) Shakuntalam",
+      "(C) Ratnavali",
+      "(D) Uttararamacharita"
+    ],
+    "answer": "(A) Mrichchhakatika"
+  },
+  {
+    "id": 77,
+    "question": "Banabhatta was the court poet of which ruler?",
+    "options": [
+      "(A) Harsha",
+      "(B) Ashoka",
+      "(C) Samudragupta",
+      "(D) Chandragupta II"
+    ],
+    "answer": "(A) Harsha"
+  },
+  {
+    "id": 78,
+    "question": "The 'Manimekalai' is an epic related to:",
+    "options": [
+      "(A) Tamil literature",
+      "(B) Sanskrit literature",
+      "(C) Buddhist literature",
+      "(D) Vedic literature"
+    ],
+    "answer": "(A) Tamil literature"
+  },
+  {
+    "id": 79,
+    "question": "'Geet Govinda' was composed by:",
+    "options": [
+      "(A) Jayadeva",
+      "(B) Tulsidas",
+      "(C) Kalidasa",
+      "(D) Valmiki"
+    ],
+    "answer": "(A) Jayadeva"
+  },
+  {
+    "id": 80,
+    "question": "'Meghaduta' is a work of:",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Banabhatta",
+      "(C) Bhavabhuti",
+      "(D) Harsha"
+    ],
+    "answer": "(A) Kalidasa"
+  },
+  {
+    "id": 81,
+    "question": "Who is considered the first Indian mathematician?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Varahamihira",
+      "(C) Brahmagupta",
+      "(D) Panini"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 82,
+    "question": "Which ancient Indian scientist calculated the value of pi?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Brahmagupta",
+      "(C) Bhaskaracharya",
+      "(D) Varahamihira"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 83,
+    "question": "The Ajanta caves are primarily associated with which religion?",
+    "options": [
+      "(A) Hinduism",
+      "(B) Jainism",
+      "(C) Buddhism",
+      "(D) Sikhism"
+    ],
+    "answer": "(C) Buddhism"
+  },
+  {
+    "id": 84,
+    "question": "Who built the Ellora caves?",
+    "options": [
+      "(A) Rashtrakutas",
+      "(B) Chalukyas",
+      "(C) Satavahanas",
+      "(D) Pallavas"
+    ],
+    "answer": "(A) Rashtrakutas"
+  },
+  {
+    "id": 85,
+    "question": "The Sanchi Stupa was commissioned by:",
+    "options": [
+      "(A) Chandragupta Maurya",
+      "(B) Ashoka",
+      "(C) Harshavardhana",
+      "(D) Kanishka"
+    ],
+    "answer": "(B) Ashoka"
+  },
+  {
+    "id": 86,
+    "question": "The Khajuraho temples are famous for:",
+    "options": [
+      "(A) Jain inscriptions",
+      "(B) Erotic sculptures",
+      "(C) Vedic rituals",
+      "(D) Buddhist relics"
+    ],
+    "answer": "(B) Erotic sculptures"
+  },
+  {
+    "id": 87,
+    "question": "Who authored the astronomical work 'Panchasiddhantika'?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Varahamihira",
+      "(C) Brahmagupta",
+      "(D) Bhaskara"
+    ],
+    "answer": "(B) Varahamihira"
+  },
+  {
+    "id": 88,
+    "question": "The Iron Pillar in Delhi is famous for:",
+    "options": [
+      "(A) Its height",
+      "(B) Its resistance to rust",
+      "(C) Its inscriptions",
+      "(D) Its architectural style"
+    ],
+    "answer": "(B) Its resistance to rust"
+  },
+  {
+    "id": 89,
+    "question": "The Konark Sun Temple is shaped like:",
+    "options": [
+      "(A) A lotus",
+      "(B) A chariot",
+      "(C) A wheel",
+      "(D) A lion"
+    ],
+    "answer": "(B) A chariot"
+  },
+  {
+    "id": 90,
+    "question": "Who was the author of 'Aryabhatiya'?",
+    "options": [
+      "(A) Varahamihira",
+      "(B) Aryabhata",
+      "(C) Brahmagupta",
+      "(D) Bhaskara"
+    ],
+    "answer": "(B) Aryabhata"
+  },
+  {
+    "id": 91,
+    "question": "Rabindranath Tagore is associated with which award?",
+    "options": [
+      "(A) Bharat Ratna",
+      "(B) Nobel Prize in Literature",
+      "(C) Padma Bhushan",
+      "(D) Booker Prize"
+    ],
+    "answer": "(B) Nobel Prize in Literature"
+  },
+  {
+    "id": 92,
+    "question": "Who is known as the 'Father of the Nation'?",
+    "options": [
+      "(A) Jawaharlal Nehru",
+      "(B) Mahatma Gandhi",
+      "(C) Sardar Patel",
+      "(D) Subhas Chandra Bose"
+    ],
+    "answer": "(B) Mahatma Gandhi"
+  },
+  {
+    "id": 93,
+    "question": "Sarojini Naidu was also known as:",
+    "options": [
+      "(A) The Iron Lady of India",
+      "(B) The Nightingale of India",
+      "(C) The Mother of India",
+      "(D) The Freedom Fighter"
+    ],
+    "answer": "(B) The Nightingale of India"
+  },
+  {
+    "id": 94,
+    "question": "Bankim Chandra Chatterjee wrote which national song?",
+    "options": [
+      "(A) Jana Gana Mana",
+      "(B) Vande Mataram",
+      "(C) Saare Jahan Se Achha",
+      "(D) Kadam Kadam Badhaye Ja"
+    ],
+    "answer": "(B) Vande Mataram"
+  },
+  {
+    "id": 95,
+    "question": "Bhagat Singh was involved in which revolutionary act?",
+    "options": [
+      "(A) Non-cooperation Movement",
+      "(B) Kakori Conspiracy",
+      "(C) Assembly Bombing",
+      "(D) Quit India Movement"
+    ],
+    "answer": "(C) Assembly Bombing"
+  },
+  {
+    "id": 96,
+    "question": "Dadabhai Naoroji is known for:",
+    "options": [
+      "(A) The Drain Theory",
+      "(B) The Quit India Movement",
+      "(C) The Salt March",
+      "(D) The Doctrine of Lapse"
+    ],
+    "answer": "(A) The Drain Theory"
+  }
+]
