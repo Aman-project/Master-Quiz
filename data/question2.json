@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Which feature exemplifies the diversity of India?",
+    "options": [
+      "(A) A single language",
+      "(B) Multiple ethnic groups",
+      "(C) A unified religion",
+      "(D) A single cuisine"
+    ],
+    "answer": "(B) Multiple ethnic groups"
+  },
+  {
+    "id": 2,
+    "question": "The Indian Diaspora primarily refers to:",
+    "options": [
+      "(A) People living in India",
+      "(B) Indians living outside India",
+      "(C) Indian tourists abroad",
+      "(D) Indian immigrants only"
+    ],
+    "answer": "(B) Indians living outside India"
+  },
+  {
+    "id": 3,
+    "question": "Which ancient civilization is known for its planned cities?",
+    "options": [
+      "(A) Indus Valley Civilization",
+      "(B) Mesopotamian Civilization",
+      "(C) Greek Civilization",
+      "(D) Roman Civilization"
+    ],
+    "answer": "(A) Indus Valley Civilization"
+  },
+  {
+    "id": 4,
+    "question": "Vedic culture is primarily associated with which texts?",
+    "options": [
+      "(A) Puranas",
+      "(B) Vedas",
+      "(C) Upanishads",
+      "(D) All of the above"
+    ],
+    "answer": "(B) Vedas"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a prominent festival in India that signifies cultural harmony?",
+    "options": [
+      "(A) Christmas",
+      "(B) Diwali",
+      "(C) Thanksgiving",
+      "(D) Halloween"
+    ],
+    "answer": "(B) Diwali"
+  },
+  {
+    "id": 6,
+    "question": "Which geographical feature is a major component of India’s diversity?",
+    "options": [
+      "(A) Plains",
+      "(B) Mountains",
+      "(C) Deserts",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 7,
+    "question": "Which religion emphasizes the concept of non-violence (Ahimsa)?",
+    "options": [
+      "(A) Hinduism",
+      "(B) Jainism",
+      "(C) Buddhism",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 8,
+    "question": "Shankaracharya is best known for his teachings in:",
+    "options": [
+      "(A) Vaishnavism",
+      "(B) Advaita Vedanta",
+      "(C) Jain philosophy",
+      "(D) Buddhism"
+    ],
+    "answer": "(B) Advaita Vedanta"
+  },
+  {
+    "id": 9,
+    "question": "Ramanuja is associated with which philosophical system?",
+    "options": [
+      "(A) Advaita Vedanta",
+      "(B) Vishishtadvaita",
+      "(C) Dvaita",
+      "(D) Sankhya"
+    ],
+    "answer": "(B) Vishishtadvaita"
+  },
+  {
+    "id": 10,
+    "question": "The six systems of Indian philosophy are known as:",
+    "options": [
+      "(A) Shadarshan",
+      "(B) Sutras",
+      "(C) Upanishads",
+      "(D) Puranas"
+    ],
+    "answer": "(A) Shadarshan"
+  },
+  {
+    "id": 11,
+    "question": "Who founded Jainism?",
+    "options": [
+      "(A) Mahavira",
+      "(B) Buddha",
+      "(C) Shankaracharya",
+      "(D) Ramanuja"
+    ],
+    "answer": "(A) Mahavira"
+  },
+  {
+    "id": 12,
+    "question": "The Bhakti movement in India emphasizes:",
+    "options": [
+      "(A) Ritualistic practices",
+      "(B) Personal devotion to God",
+      "(C) Asceticism",
+      "(D) Scholarly debates"
+    ],
+    "answer": "(B) Personal devotion to God"
+  },
+  {
+    "id": 13,
+    "question": "Which Sufi saint is known for his teachings in India?",
+    "options": [
+      "(A) Rumi",
+      "(B) Nizamuddin Auliya",
+      "(C) Al-Ghazali",
+      "(D) Ibn Arabi"
+    ],
+    "answer": "(B) Nizamuddin Auliya"
+  },
+  {
+    "id": 14,
+    "question": "The \"Ramayana\" is attributed to which author?",
+    "options": [
+      "(A) Kalidasa",
+      "(B) Valmiki",
+      "(C) Vyasa",
+      "(D) Ban Bhatt"
+    ],
+    "answer": "(B) Valmiki"
+  },
+  {
+    "id": 15,
+    "question": "Who wrote the play \"Shakuntala\"?",
+    "options": [
+      "(A) Ban Bhatt",
+      "(B) Kalidasa",
+      "(C) Bhasa",
+      "(D) Harsha"
+    ],
+    "answer": "(B) Kalidasa"
+  },
+  {
+    "id": 16,
+    "question": "Which ancient text is considered a treatise on statecraft?",
+    "options": [
+      "(A) Arthashastra",
+      "(B) Manusmriti",
+      "(C) Upanishads",
+      "(D) Vedas"
+    ],
+    "answer": "(A) Arthashastra"
+  },
+  {
+    "id": 17,
+    "question": "Kalhan is known for which historical work?",
+    "options": [
+      "(A) Kadambari",
+      "(B) Rajatarangini",
+      "(C) Akbarnama",
+      "(D) Mahabharata"
+    ],
+    "answer": "(B) Rajatarangini"
+  },
+  {
+    "id": 18,
+    "question": "Which Tamil literature is known for its poetic beauty?",
+    "options": [
+      "(A) Sangam literature",
+      "(B) Puranas",
+      "(C) Upanishads",
+      "(D) Vedas"
+    ],
+    "answer": "(A) Sangam literature"
+  },
+  {
+    "id": 19,
+    "question": "Abu Fazal is known for his work documenting the reign of which Mughal emperor?",
+    "options": [
+      "(A) Akbar",
+      "(B) Shah Jahan",
+      "(C) Aurangzeb",
+      "(D) Babur"
+    ],
+    "answer": "(A) Akbar"
+  },
+  {
+    "id": 20,
+    "question": "Bharatendu Harishchandra is known for his contributions to which language?",
+    "options": [
+      "(A) Sanskrit",
+      "(B) Hindi",
+      "(C) Tamil",
+      "(D) Bengali"
+    ],
+    "answer": "(B) Hindi"
+  },
+  {
+    "id": 21,
+    "question": "Aryabhata is known for his work in:",
+    "options": [
+      "(A) Physics",
+      "(B) Mathematics and Astronomy",
+      "(C) Medicine",
+      "(D) Chemistry"
+    ],
+    "answer": "(B) Mathematics and Astronomy"
+  },
+  {
+    "id": 22,
+    "question": "Which ancient Indian text discusses the calculation of eclipses?",
+    "options": [
+      "(A) Siddhanta Shiromani",
+      "(B) Arthashastra",
+      "(C) Samudrika Shastra",
+      "(D) Vimanika Shastra"
+    ],
+    "answer": "(A) Siddhanta Shiromani"
+  },
+  {
+    "id": 23,
+    "question": "Who calculated the value of pi (π) accurately in ancient India?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Brahmagupta",
+      "(C) Bhaskara",
+      "(D) Varahamihira"
+    ],
+    "answer": "(A) Aryabhata"
+  },
+  {
+    "id": 24,
+    "question": "Brahmagupta made significant contributions to which field?",
+    "options": [
+      "(A) Geometry",
+      "(B) Algebra",
+      "(C) Astrology",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 25,
+    "question": "Varahamihira is known for his work in which area?",
+    "options": [
+      "(A) Medicine",
+      "(B) Astronomy",
+      "(C) Mathematics",
+      "(D) All of the above"
+    ],
+    "answer": "(B) Astronomy"
+  },
+  {
+    "id": 26,
+    "question": "The Ashoka Pillars are significant because they:",
+    "options": [
+      "(A) Represent Mughal architecture",
+      "(B) Feature inscriptions promoting Buddhism",
+      "(C) Are built of wood",
+      "(D) Are located in South India"
+    ],
+    "answer": "(B) Feature inscriptions promoting Buddhism"
+  },
+  {
+    "id": 27,
+    "question": "Which site is known for its rock-cut caves and sculptures?",
+    "options": [
+      "(A) Konark",
+      "(B) Sanchi",
+      "(C) Ajanta and Ellora",
+      "(D) Khajuraho"
+    ],
+    "answer": "(C) Ajanta and Ellora"
+  },
+  {
+    "id": 28,
+    "question": "The Konark Sun Temple is dedicated to which deity?",
+    "options": [
+      "(A) Shiva",
+      "(B) Vishnu",
+      "(C) Surya (Sun God)",
+      "(D) Ganesha"
+    ],
+    "answer": "(C) Surya (Sun God)"
+  },
+  {
+    "id": 29,
+    "question": "Which architectural style is exemplified by the Khajuraho temples?",
+    "options": [
+      "(A) Dravidian",
+      "(B) Nagara",
+      "(C) Indo-Islamic",
+      "(D) Gothic"
+    ],
+    "answer": "(B) Nagara"
+  },
+  {
+    "id": 30,
+    "question": "The Sanchi Stupa is primarily associated with:",
+    "options": [
+      "(A) Jainism",
+      "(B) Buddhism",
+      "(C) Hinduism",
+      "(D) Sikhism"
+    ],
+    "answer": "(B) Buddhism"
+  },
+  {
+    "id": 31,
+    "question": "Who was the first Indian Nobel laureate in Literature?",
+    "options": [
+      "(A) Sarojini Naidu",
+      "(B) Rabindranath Tagore",
+      "(C) Bankim Chandra Chattopadhyay",
+      "(D) Bhagat Singh"
+    ],
+    "answer": "(B) Rabindranath Tagore"
+  },
+  {
+    "id": 32,
+    "question": "Sarojini Naidu was known for her contributions in which field?",
+    "options": [
+      "(A) Politics",
+      "(B) Poetry",
+      "(C) Social reform",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 33,
+    "question": "Which freedom fighter is known for his revolutionary activities against British rule?",
+    "options": [
+      "(A) Dadabhai Naoroji",
+      "(B) Bhagat Singh",
+      "(C) Mahatma Gandhi",
+      "(D) Rabindranath Tagore"
+    ],
+    "answer": "(B) Bhagat Singh"
+  },
+  {
+    "id": 34,
+    "question": "Dadabhai Naoroji is known for his work in:",
+    "options": [
+      "(A) Literature",
+      "(B) Economics",
+      "(C) Nationalism",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 35,
+    "question": "Bankim Chandra Chattopadhyay is famous for writing which national song?",
+    "options": [
+      "(A) Saare Jahan Se Accha",
+      "(B) Vande Mataram",
+      "(C) Jana Gana Mana",
+      "(D) Aye Mere Watan Ke Logo"
+    ],
+    "answer": "(B) Vande Mataram"
+  },
+  {
+    "id": 36,
+    "question": "Durgabai Deshmukh was a prominent figure in:",
+    "options": [
+      "(A) Education reform",
+      "(B) Women’s rights",
+      "(C) Freedom struggle",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 37,
+    "question": "Sucheta Kriplani is noted for being:",
+    "options": [
+      "(A) The first female governor of India",
+      "(B) The first woman to become a Chief Minister",
+      "(C) An eminent poet",
+      "(D) A leading novelist"
+    ],
+    "answer": "(B) The first woman to become a Chief Minister"
+  },
+  {
+    "id": 38,
+    "question": "Which text discusses the philosophical ideas of Hinduism?",
+    "options": [
+      "(A) Vedas",
+      "(B) Puranas",
+      "(C) Gita",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 39,
+    "question": "Which festival marks the victory of good over evil in Hindu culture?",
+    "options": [
+      "(A) Eid",
+      "(B) Diwali",
+      "(C) Christmas",
+      "(D) Pongal"
+    ],
+    "answer": "(B) Diwali"
+  },
+  {
+    "id": 40,
+    "question": "The Vedic period is primarily known for its contributions to:",
+    "options": [
+      "(A) Literature",
+      "(B) Science",
+      "(C) Philosophy",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 41,
+    "question": "The teachings of Jainism are primarily recorded in:",
+    "options": [
+      "(A) Upanishads",
+      "(B) Agamas",
+      "(C) Vedas",
+      "(D) Sutras"
+    ],
+    "answer": "(B) Agamas"
+  },
+  {
+    "id": 42,
+    "question": "Which text is a fundamental part of Buddhism?",
+    "options": [
+      "(A) Tripitaka",
+      "(B) Mahabharata",
+      "(C) Vedas",
+      "(D) Sutras"
+    ],
+    "answer": "(A) Tripitaka"
+  },
+  {
+    "id": 43,
+    "question": "Who is considered the father of Indian nationalism?",
+    "options": [
+      "(A) Mahatma Gandhi",
+      "(B) Dadabhai Naoroji",
+      "(C) Rabindranath Tagore",
+      "(D) Bhagat Singh"
+    ],
+    "answer": "(B) Dadabhai Naoroji"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is not a Bhakti saint?",
+    "options": [
+      "(A) Kabir",
+      "(B) Tulsidas",
+      "(C) Ramanuja",
+      "(D) Ashoka"
+    ],
+    "answer": "(D) Ashoka"
+  },
+  {
+    "id": 45,
+    "question": "Which Indian mathematician is known for his work on algebra?",
+    "options": [
+      "(A) Aryabhata",
+      "(B) Brahmagupta",
+      "(C) Varahamihira",
+      "(D) Bhaskara"
+    ],
+    "answer": "(B) Brahmagupta"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following sites is a UNESCO World Heritage site?",
+    "options": [
+      "(A) Qutub Minar",
+      "(B) Taj Mahal",
+      "(C) Ajanta Caves",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 47,
+    "question": "The Ajanta Caves are famous for their:",
+    "options": [
+      "(A) Sculptures",
+      "(B) Murals",
+      "(C) Architecture",
+      "(D) All of the above"
+    ],
+    "answer": "(D) All of the above"
+  },
+  {
+    "id": 48,
+    "question": "Who wrote \"Anandamath\", which inspired the national song \"Vande Mataram\"?",
+    "options": [
+      "(A) Rabindranath Tagore",
+      "(B) Bankim Chandra Chattopadhyay",
+      "(C) Sarojini Naidu",
+      "(D) Bhagat Singh"
+    ],
+    "answer": "(B) Bankim Chandra Chattopadhyay"
+  },
+  {
+    "id": 49,
+    "question": "Which saint is associated with the Nirguna tradition of Bhakti?",
+    "options": [
+      "(A) Ramanuja",
+      "(B) Kabir",
+      "(C) Tulsidas",
+      "(D) Chaitanya Mahaprabhu"
+    ],
+    "answer": "(B) Kabir"
+  },
+  {
+    "id": 50,
+    "question": "The \"Mahabharata\" includes the Bhagavad Gita, which is a dialogue between:",
+    "options": [
+      "(A) Krishna and Arjuna",
+      "(B) Rama and Sita",
+      "(C) Yudhishthira and Bhima",
+      "(D) Draupadi and Karna"
+    ],
+    "answer": "(A) Krishna and Arjuna"
+  }
+]
