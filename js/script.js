@@ -6,7 +6,8 @@ const appState = {
     answers: []
 };
 
-/* --- DOM Elements --- */
+/* ---------------- DOM Elements ---------------- */
+
 const screens = {
     dashboard: document.getElementById('dashboard-screen'),
     create: document.getElementById('create-quiz-screen'),
@@ -51,102 +52,167 @@ const elements = {
     homeBtn: document.getElementById('home-btn')
 };
 
-/* --- Initialization --- */
+/* ---------------- Initialization ---------------- */
+
 document.addEventListener('DOMContentLoaded', async () => {
-    loadQuizzes();
 
-    // Event Listeners
-    elements.createBtn.addEventListener('click', () => showScreen('create'));
-    elements.cancelCreateBtn.addEventListener('click', () => showScreen('dashboard'));
-    elements.saveQuizBtn.addEventListener('click', saveNewQuiz);
+    await loadQuizzes();
 
-    elements.backToDashboardBtn.addEventListener('click', () => showScreen('dashboard'));
-    elements.startBtn.addEventListener('click', startQuizSession);
+    // Buttons
+    elements.createBtn.addEventListener(
+        'click',
+        () => showScreen('create')
+    );
 
-    elements.nextBtn.addEventListener('click', nextQuestion);
+    elements.cancelCreateBtn.addEventListener(
+        'click',
+        () => showScreen('dashboard')
+    );
 
-    elements.quitBtn.addEventListener('click', () => {
-        if (confirm('Quit the current quiz? Progress will be lost.')) {
-            showScreen('dashboard');
+    elements.saveQuizBtn.addEventListener(
+        'click',
+        saveNewQuiz
+    );
+
+    elements.backToDashboardBtn.addEventListener(
+        'click',
+        () => showScreen('dashboard')
+    );
+
+    elements.startBtn.addEventListener(
+        'click',
+        startQuizSession
+    );
+
+    elements.nextBtn.addEventListener(
+        'click',
+        nextQuestion
+    );
+
+    elements.quitBtn.addEventListener(
+        'click',
+        () => {
+
+            if (
+                confirm(
+                    'Quit quiz? Progress will be lost.'
+                )
+            ) {
+                showScreen('dashboard');
+            }
         }
-    });
+    );
 
-    elements.restartBtn.addEventListener('click', startQuizSession);
-    elements.homeBtn.addEventListener('click', () => showScreen('dashboard'));
+    elements.restartBtn.addEventListener(
+        'click',
+        startQuizSession
+    );
+
+    elements.homeBtn.addEventListener(
+        'click',
+        () => showScreen('dashboard')
+    );
 });
 
-/* --- Data Management --- */
+/* ---------------- Load Quizzes ---------------- */
+
 async function loadQuizzes() {
-    const storedQuizzes = localStorage.getItem('quizApp_quizzes');
 
-    if (storedQuizzes) {
-        appState.quizzes = JSON.parse(storedQuizzes);
-    } else {
-        try {
+    try {
 
-            // ADD ALL YOUR JSON FILES HERE
-            const quizFiles = [
-                'questions.json',
-                'question1.json'
-            ];
+        // FILE NAME + UI NAME
+        const quizFiles = [
+            // {
+            //     file: 'questions.json',
+            //     name: 'Rashtra Gaurav'
+            // },
+            {
+                file: 'question1.json',
+                name: 'Rashtra Gaurav MCQ'
+            },
+            {
+                file: 'question2.json',
+                name: 'Rashtra Gaurav 2 MCQ'
+            },
+            {
+                file: 'question3.json',
+                name: 'Rashtra Gaurav 3 MCQ'
+            },
+            {
+                file: 'question4.json',
+                name: 'Rashtra Gaurav 4 MCQ'
+            }
+        ];
 
-            const loadedQuizzes = [];
+        const loadedQuizzes = [];
 
-            for (const file of quizFiles) {
+        for (const quiz of quizFiles) {
 
-                const response = await fetch(`data/${file}`);
+            try {
+
+                const response =
+                    await fetch(`data/${quiz.file}`);
 
                 if (!response.ok) {
-                    console.warn(`${file} not found`);
+
+                    console.warn(
+                        `${quiz.file} not found`
+                    );
+
                     continue;
                 }
 
                 const data = await response.json();
 
                 loadedQuizzes.push({
-                    id: file.replace('.json', ''),
-                    name: formatQuizName(file),
+                    id: quiz.file.replace('.json', ''),
+                    name: quiz.name,
                     questions: data
                 });
+
+            } catch (err) {
+
+                console.error(
+                    `Error loading ${quiz.file}`,
+                    err
+                );
             }
-
-            appState.quizzes = loadedQuizzes;
-
-            saveQuizzesToStorage();
-
-        } catch (error) {
-            console.error('Failed to load quizzes:', error);
-            appState.quizzes = [];
         }
+
+        appState.quizzes = loadedQuizzes;
+
+        renderQuizList();
+
+    } catch (error) {
+
+        console.error(
+            'Failed to load quizzes:',
+            error
+        );
     }
-
-    renderQuizList();
 }
 
-function formatQuizName(fileName) {
-    return fileName
-        .replace('.json', '')
-        .replace(/-/g, ' ')
-        .replace(/_/g, ' ')
-        .replace(/\b\w/g, char => char.toUpperCase());
-}
-
-function saveQuizzesToStorage() {
-    localStorage.setItem('quizApp_quizzes', JSON.stringify(appState.quizzes));
-}
+/* ---------------- Save Quiz ---------------- */
 
 function saveNewQuiz() {
 
-    const name = elements.newQuizName.value.trim();
-    const jsonStr = elements.quizJsonInput.value.trim();
+    const name =
+        elements.newQuizName.value.trim();
+
+    const jsonStr =
+        elements.quizJsonInput.value.trim();
 
     if (!name) {
-        alert('Please enter a quiz name.');
+
+        alert('Please enter quiz name');
+
         return;
     }
 
     if (!jsonStr) {
-        alert('Please enter JSON data.');
+
+        alert('Please enter JSON');
+
         return;
     }
 
@@ -154,17 +220,13 @@ function saveNewQuiz() {
 
         const questions = JSON.parse(jsonStr);
 
-        if (!Array.isArray(questions) || questions.length === 0) {
-            throw new Error('JSON must be a non-empty array.');
-        }
-
         if (
-            !questions[0].hasOwnProperty('question') ||
-            !questions[0].hasOwnProperty('options') ||
-            !questions[0].hasOwnProperty('answer')
+            !Array.isArray(questions) ||
+            questions.length === 0
         ) {
+
             throw new Error(
-                'Each question must contain question, options, answer'
+                'JSON must be non-empty array'
             );
         }
 
@@ -176,50 +238,39 @@ function saveNewQuiz() {
 
         appState.quizzes.push(newQuiz);
 
-        saveQuizzesToStorage();
+        renderQuizList();
 
         elements.newQuizName.value = '';
         elements.quizJsonInput.value = '';
 
-        renderQuizList();
-
         showScreen('dashboard');
 
     } catch (e) {
+
         alert('Invalid JSON: ' + e.message);
     }
 }
 
+/* ---------------- Delete Quiz ---------------- */
+
 function deleteQuiz(id) {
 
-    if (confirm('Are you sure you want to delete this quiz?')) {
+    if (
+        confirm(
+            'Delete this quiz?'
+        )
+    ) {
 
-        appState.quizzes = appState.quizzes.filter(
-            q => q.id !== id
-        );
-
-        saveQuizzesToStorage();
+        appState.quizzes =
+            appState.quizzes.filter(
+                q => q.id !== id
+            );
 
         renderQuizList();
     }
 }
 
-/* --- UI Rendering --- */
-function showScreen(screenName) {
-
-    Object.values(screens).forEach(screen => {
-        screen.classList.remove('active');
-    });
-
-    screens[screenName].classList.add('active');
-
-    screens[screenName].style.opacity = 0;
-
-    setTimeout(() => {
-        screens[screenName].style.opacity = 1;
-        screens[screenName].style.transition = 'opacity 0.3s ease';
-    }, 10);
-}
+/* ---------------- Render Quiz List ---------------- */
 
 function renderQuizList() {
 
@@ -228,7 +279,7 @@ function renderQuizList() {
     if (appState.quizzes.length === 0) {
 
         elements.quizList.innerHTML = `
-            <p style="text-align:center; margin-top:2rem;">
+            <p style="text-align:center;">
                 No quizzes found
             </p>
         `;
@@ -238,49 +289,49 @@ function renderQuizList() {
 
     appState.quizzes.forEach(quiz => {
 
-        const card = document.createElement('div');
+        const card =
+            document.createElement('div');
 
         card.className = 'quiz-card';
 
-        const questionCount = quiz.questions
-            ? quiz.questions.length
-            : 0;
+        const totalQuestions =
+            quiz.questions.length;
 
         card.innerHTML = `
             <div class="quiz-info">
+
                 <h3>
-                    <i class="ri-file-text-line"
-                       style="margin-right:8px;">
-                    </i>
                     ${quiz.name}
                 </h3>
 
-                <p style="padding-left:2rem;">
-                    ${questionCount} Questions
+                <p>
+                    ${totalQuestions} Questions
                 </p>
+
             </div>
 
-            <div class="quiz-actions"
-                 style="display:flex; gap:0.5rem;">
+            <div class="quiz-actions">
 
-                <button class="action-btn btn-start"
-                        onclick="selectQuiz('${quiz.id}')">
-
-                    <i class="ri-play-fill"></i>
+                <button
+                    class="action-btn btn-start"
+                    onclick="selectQuiz('${quiz.id}')"
+                >
                     Start
                 </button>
 
                 ${
                     quiz.id.startsWith('custom_')
                     ? `
-                    <button class="action-btn btn-delete"
-                            onclick="deleteQuiz('${quiz.id}')">
-
-                        <i class="ri-delete-bin-line"></i>
+                    <button
+                        class="action-btn btn-delete"
+                        onclick="deleteQuiz('${quiz.id}')"
+                    >
+                        Delete
                     </button>
                     `
                     : ''
                 }
+
             </div>
         `;
 
@@ -288,18 +339,32 @@ function renderQuizList() {
     });
 }
 
-/* --- Global Functions --- */
+/* ---------------- Screen Switch ---------------- */
+
+function showScreen(screenName) {
+
+    Object.values(screens).forEach(screen => {
+        screen.classList.remove('active');
+    });
+
+    screens[screenName].classList.add('active');
+}
+
+/* ---------------- Select Quiz ---------------- */
+
 window.selectQuiz = function (id) {
 
-    const quiz = appState.quizzes.find(
-        q => q.id === id
-    );
+    const quiz =
+        appState.quizzes.find(
+            q => q.id === id
+        );
 
     if (!quiz) return;
 
     appState.currentQuiz = quiz;
 
-    elements.selectedQuizTitle.textContent = quiz.name;
+    elements.selectedQuizTitle.textContent =
+        quiz.name;
 
     elements.totalQuestionsCount.textContent =
         quiz.questions.length;
@@ -309,7 +374,8 @@ window.selectQuiz = function (id) {
 
 window.deleteQuiz = deleteQuiz;
 
-/* --- Quiz Logic --- */
+/* ---------------- Start Quiz ---------------- */
+
 function startQuizSession() {
 
     if (!appState.currentQuiz) return;
@@ -325,6 +391,8 @@ function startQuizSession() {
     updateHeader();
 }
 
+/* ---------------- Load Question ---------------- */
+
 function loadQuestion() {
 
     const question =
@@ -339,32 +407,31 @@ function loadQuestion() {
 
     elements.nextBtn.disabled = true;
 
-    question.options.forEach(optionText => {
+    question.options.forEach(option => {
 
-        const button = document.createElement('div');
+        const button =
+            document.createElement('div');
 
         button.className = 'option';
 
         button.innerHTML = `
-            <i class="ri-checkbox-blank-circle-line"
-               style="margin-right:12px;
-                      font-size:1.2rem;
-                      color:var(--text-muted);">
-            </i>
-
-            <span>${optionText}</span>
+            <span>${option}</span>
         `;
 
         button.onclick = () =>
             handleOptionSelect(
                 button,
-                optionText,
+                option,
                 question.answer
             );
 
-        elements.optionsContainer.appendChild(button);
+        elements.optionsContainer.appendChild(
+            button
+        );
     });
 }
+
+/* ---------------- Option Select ---------------- */
 
 function handleOptionSelect(
     selectedButton,
@@ -384,18 +451,12 @@ function handleOptionSelect(
 
         btn.onclick = null;
 
-        const textSpan = btn.querySelector('span');
+        const text =
+            btn.innerText.trim();
 
-        const icon = btn.querySelector('i');
-
-        if (textSpan.textContent === correctAnswer) {
+        if (text === correctAnswer) {
 
             btn.classList.add('correct');
-
-            icon.className =
-                'ri-checkbox-circle-fill';
-
-            icon.style.color = '#fff';
         }
     });
 
@@ -403,20 +464,14 @@ function handleOptionSelect(
 
         selectedButton.classList.add('wrong');
 
-        const icon =
-            selectedButton.querySelector('i');
-
-        icon.className = 'ri-close-circle-fill';
-
-        icon.style.color = '#fff';
-
     } else {
 
         appState.score++;
     }
 
     appState.answers.push({
-        questionIndex: appState.currentQuestionIndex,
+        questionIndex:
+            appState.currentQuestionIndex,
         isCorrect: isCorrect
     });
 
@@ -424,6 +479,8 @@ function handleOptionSelect(
 
     updateHeader();
 }
+
+/* ---------------- Next Question ---------------- */
 
 function nextQuestion() {
 
@@ -446,6 +503,8 @@ function nextQuestion() {
     }
 }
 
+/* ---------------- Header ---------------- */
+
 function updateHeader() {
 
     const total =
@@ -467,7 +526,8 @@ function updateHeader() {
         `${progress}%`;
 }
 
-/* --- Result --- */
+/* ---------------- Finish Quiz ---------------- */
+
 function finishQuiz() {
 
     const total =
@@ -478,16 +538,21 @@ function finishQuiz() {
     const wrong = total - correct;
 
     const accuracyVal =
-        Math.round((correct / total) * 100);
+        Math.round(
+            (correct / total) * 100
+        );
 
-    elements.finalScore.textContent = correct;
+    elements.finalScore.textContent =
+        correct;
 
     elements.totalQuestionsResult.textContent =
         total;
 
-    elements.correctCount.textContent = correct;
+    elements.correctCount.textContent =
+        correct;
 
-    elements.wrongCount.textContent = wrong;
+    elements.wrongCount.textContent =
+        wrong;
 
     elements.accuracy.textContent =
         `${accuracyVal}%`;
@@ -511,7 +576,8 @@ function finishQuiz() {
         msg = 'Keep Practicing!';
     }
 
-    elements.resultMessage.textContent = msg;
+    elements.resultMessage.textContent =
+        msg;
 
     showScreen('result');
 }
