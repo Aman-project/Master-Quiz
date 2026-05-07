@@ -1,10 +1,14 @@
-const CACHE_NAME = 'quiz-master-v3';
+const CACHE_NAME = 'quiz-master-v3.1';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
     './css/style.css',
     './js/script.js',
     './data/questions.json',
+    './data/question1.json',
+    './data/question2.json',
+    './data/question3.json',
+    './data/question4.json',
     './assets/logo.png',
     'https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css',
     'https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap'
